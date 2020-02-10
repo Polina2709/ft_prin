@@ -1,0 +1,32 @@
+int ft_printf(const char *format, ... )
+{
+    char *format_line;
+ //  t_flag *result;
+
+ //   result = NULL;
+ //   result = create(result);
+    va_list ap;
+    va_start(ap, format);
+    format_line = (char *)format;
+    write_usual_text(format_line, ap);
+
+    return(0);
+}
+
+/*
+t_flag   create_node(t_flag *result) {
+    t_flag *res;
+    res = NULL;
+    res = malloc(sizeof(t_flag));
+    return (*res);
+}
+*/
+
+        {
+            result->width = ft_atoi(line_to_c);
+            while (ft_isdigit(*line_to_c))
+                line_to_c++;                                                                                                        //можно сократить
+            if (*line_to_c == '*')
+                result->width = wid;
+            continue;
+        }

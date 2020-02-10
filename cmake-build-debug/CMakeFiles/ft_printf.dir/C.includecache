@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jczech/PROJECTS/IN_PROCESS/ft_prin/ft_printf.h
+stdarg.h
+-
+libft/libft.h
+/Users/jczech/PROJECTS/IN_PROCESS/ft_prin/libft/libft.h
+unistd.h
+-
+stdlib.h
+-
+
+/Users/jczech/PROJECTS/IN_PROCESS/ft_prin/libft/libft.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+
+/Users/jczech/PROJECTS/IN_PROCESS/ft_prin/main.c
+stdio.h
+-
+ft_printf.h
+/Users/jczech/PROJECTS/IN_PROCESS/ft_prin/ft_printf.h
+
