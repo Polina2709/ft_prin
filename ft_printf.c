@@ -9,6 +9,7 @@ int ft_printf(const char *format, ... )
 
     ret = (char *)malloc(sizeof(char *));
     result = malloc(sizeof(t_flag));
+    ret = "";
     va_list ap;
     va_start(ap, format);
     format_line = (char *)format;
@@ -25,6 +26,7 @@ void *write_usual_text(char *format_line, va_list ap, t_flag *result, char *ret)
 {
     while (*format_line != '\0')
     {
+
         if (*format_line != '%')
             ret = ft_symbol_join(ret, *format_line++);
         else if (*format_line == '%' && *(format_line + 1) == '%')
@@ -69,74 +71,3 @@ void *ft_symbol_join(char *ret, char symbol)
     tmp[++i] = '\0';
     return (tmp);
 }
-
-
-
- /*
-char *work_with_s(char *to_s, va_list ap, t_flag *result, char *s2)
-{
-//    char *line_to_c;
-    int wid;
-
- //   line_to_c = to_c;
-    result->width = 1;
-    while (*to_s != 'c')
-    {
-        if (*to_s == '-')
-            result->flag_left = 1;
-        else if (*to_s == '+')                                      //не надо наверное
-            result->flag_sign = 1;
-        else if (*to_s == '0')
-            result->flag_zero = 1;
-        else if (*to_s == ' ')                                      //а надо ли
-            result->flag_space = 1;
-        else if (*to_s == '#')
-            result->flag_hash = 1;                                      //мб некоторые можно вобще убрать или в элзе запихнуть
-        else if (*to_s == '*' && *to_s - 1 != '.')
-        {
-            wid = va_arg(ap, int);
-            result->width = wid;
-        }
-        else if (ft_isdigit(*to_s))
-        {
-            result->width = ft_atoi(to_s);
-            while (ft_isdigit(*to_s))
-                to_s++;                                                                                                        //можно сократить
-            continue;
-        }
-        else if (*to_s == '*' && *to_s - 1 != '.')              //тоже можно убрать
-                   result->width_star = 1;
-        else if (*to_s++ == '.')                                     //зачем точность в char, тогда и .*
-       {
-            while (*to_s >= 0 && *to_s <= 9)
-                to_s++;
-       }
-        // тут надо с hh,ll ...
-        to_s++;
-    }
-    return (s_flags(ap,result, s2));
-}
-
-void *s_flags(va_list ap, t_flag *result, char *s2)
-{
-    char var;
-    int wid;
-
-    var = (char)va_arg(ap, int);
-    if (result->width > 1)
-    {
-        free(s2);
-        s2 = (char *)malloc(sizeof(char *) * (result->width + 1));
-        if (result->flag_zero == 1 && result->flag_left == 0)
-            s2 = ft_memset(s2, '0', result->width);
-        else
-            s2 = ft_memset(s2, ' ', result->width);
-    }
-    if (result->flag_left == 1)
-        s2[0] = var;
-    else // if (result->flag_left == 0)
-        s2[result->width - 1] = var;
-    s2[result->width] = '\0';
-    return (s2);
-}
-*/

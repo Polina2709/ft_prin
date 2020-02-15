@@ -30,3 +30,98 @@ t_flag   create_node(t_flag *result) {
                 result->width = wid;
             continue;
         }
+
+
+
+
+
+
+
+
+ void *mem_and_insert_x_by_width(t_flag *result, char *new_var, char *s2, int wid)
+ {
+     int i;
+
+     i = 0;
+     if (result->precision == 0) {
+         free(s2);
+         s2 = (char *) malloc(sizeof(char *) * (result->width + 1));
+         if (result->flag_zero == 1 && result->flag_left == 0)
+             s2 = ft_memset(s2, '0', result->width);
+         else
+             s2 = ft_memset(s2, ' ', result->width);
+         if (result->flag_left == 1) {
+             while (i++ != wid)
+                 s2[i - 1] = new_var[i - 1];
+         } else {
+             while (wid--)
+                 s2[result->width - wid - 1] = new_var[i++];
+         }
+     }
+     else
+     {
+         free(s2);
+         if (result->flag_hash == 1 && (result->width - result->precision < 2))
+         {
+             result->width += 2;
+             if (result->flag_left == 0)
+                 result->precision += 2;
+         }
+         s2 = (char *)malloc(sizeof(char *) * (result->width + 1));
+         if (result->flag_left == 1)
+         {
+             s2 = ft_memset(s2, ' ', result->width);
+             s2 = ft_memset(s2, '0', result->precision);
+         }
+         else
+         {
+             s2 = ft_memset(s2, '0', result->width);
+             s2 = ft_memset(s2, ' ', result->width - result->precision);
+         }
+         if (result->flag_left == 1)
+         {
+             if (result->flag_hash == 1 )
+             {
+                 s2[0] = '0';
+                 s2[1] = 'x';
+                 if (result->precision >= wid) {
+                     i += 2;
+                     wid -= 2;
+                     result->precision += 2;
+                 }
+
+             }
+             if (result->precision >= wid)
+             {
+                 while (wid--)
+                     s2[result->precision - wid - 1] = new_var[i++];
+             }
+             else
+
+             {
+                 while (i++ != wid)
+                     s2[i - 1] = new_var[i - 1];
+             }
+         } else {
+             if (result->flag_hash == 1 && result->precision >= wid)
+             {
+                 s2[result->width - result->precision - 2] = '0';
+                 s2[result->width - result->precision - 1] = 'x';
+                 i += 2;
+                 wid -= 2;
+             }
+ //            else if (result->flag_hash == 1 && result->precision < wid)
+ //            {
+ //                s2[result->width - wid - 4] = '0';
+ //                s2[result->width - wid - 3] = 'x';
+ //                i += 2;
+ //                wid -= 2;
+ //            }
+             while (wid--)
+                 s2[result->width - wid - 1] = new_var[i++];
+         }
+     }
+
+     s2[result->width] = '\0';
+     return (s2);
+ }
