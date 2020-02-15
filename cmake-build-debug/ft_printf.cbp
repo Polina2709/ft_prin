@@ -78,7 +78,19 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/X_large_work.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____flags.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_XX_by_precision.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_XX_by_wid.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_x_by_width.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____work.c">
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/c_work.c">
@@ -103,6 +115,9 @@
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base_XX.c">
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_long.c">
@@ -330,10 +345,10 @@
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_width.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/x____x_flags.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/x____work.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/x_work.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/x____x_flags.c">
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/CMakeLists.txt">

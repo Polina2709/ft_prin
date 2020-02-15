@@ -4,7 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/c/Users/Полина/CLionProjects/print_test/X_large_work.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/X_large_work.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____flags.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____flags.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_XX_by_precision.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_XX_by_wid.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_x_by_width.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____work.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____work.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/c_work.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/c_work.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/d_work.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/d_work.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_help.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/d_work_help.c.o"
@@ -13,6 +17,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/find_format.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/find_format.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_atoi_unsigned.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/ft_itoa_base.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base_XX.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_long.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/ft_itoa_long.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_unsigned.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_unsigned_long.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o"
@@ -86,8 +91,8 @@ set(CMAKE_DEPENDS_CHECK_C
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_precision.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_wid.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_width.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o"
+  "/cygdrive/c/Users/Полина/CLionProjects/print_test/x____work.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/x____work.c.o"
   "/cygdrive/c/Users/Полина/CLionProjects/print_test/x____x_flags.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/x____x_flags.c.o"
-  "/cygdrive/c/Users/Полина/CLionProjects/print_test/x_work.c" "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir/x_work.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

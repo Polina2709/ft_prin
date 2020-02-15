@@ -123,32 +123,140 @@ ft_printf/fast:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/build
 .PHONY : ft_printf/fast
 
-X_large_work.o: X_large_work.c.o
+XX____flags.o: XX____flags.c.o
 
-.PHONY : X_large_work.o
+.PHONY : XX____flags.o
 
 # target to build an object file
-X_large_work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/X_large_work.c.o
-.PHONY : X_large_work.c.o
+XX____flags.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____flags.c.o
+.PHONY : XX____flags.c.o
 
-X_large_work.i: X_large_work.c.i
+XX____flags.i: XX____flags.c.i
 
-.PHONY : X_large_work.i
+.PHONY : XX____flags.i
 
 # target to preprocess a source file
-X_large_work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/X_large_work.c.i
-.PHONY : X_large_work.c.i
+XX____flags.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____flags.c.i
+.PHONY : XX____flags.c.i
 
-X_large_work.s: X_large_work.c.s
+XX____flags.s: XX____flags.c.s
 
-.PHONY : X_large_work.s
+.PHONY : XX____flags.s
 
 # target to generate assembly for a file
-X_large_work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/X_large_work.c.s
-.PHONY : X_large_work.c.s
+XX____flags.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____flags.c.s
+.PHONY : XX____flags.c.s
+
+XX____mem_and_insert_XX_by_precision.o: XX____mem_and_insert_XX_by_precision.c.o
+
+.PHONY : XX____mem_and_insert_XX_by_precision.o
+
+# target to build an object file
+XX____mem_and_insert_XX_by_precision.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o
+.PHONY : XX____mem_and_insert_XX_by_precision.c.o
+
+XX____mem_and_insert_XX_by_precision.i: XX____mem_and_insert_XX_by_precision.c.i
+
+.PHONY : XX____mem_and_insert_XX_by_precision.i
+
+# target to preprocess a source file
+XX____mem_and_insert_XX_by_precision.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.i
+.PHONY : XX____mem_and_insert_XX_by_precision.c.i
+
+XX____mem_and_insert_XX_by_precision.s: XX____mem_and_insert_XX_by_precision.c.s
+
+.PHONY : XX____mem_and_insert_XX_by_precision.s
+
+# target to generate assembly for a file
+XX____mem_and_insert_XX_by_precision.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.s
+.PHONY : XX____mem_and_insert_XX_by_precision.c.s
+
+XX____mem_and_insert_XX_by_wid.o: XX____mem_and_insert_XX_by_wid.c.o
+
+.PHONY : XX____mem_and_insert_XX_by_wid.o
+
+# target to build an object file
+XX____mem_and_insert_XX_by_wid.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o
+.PHONY : XX____mem_and_insert_XX_by_wid.c.o
+
+XX____mem_and_insert_XX_by_wid.i: XX____mem_and_insert_XX_by_wid.c.i
+
+.PHONY : XX____mem_and_insert_XX_by_wid.i
+
+# target to preprocess a source file
+XX____mem_and_insert_XX_by_wid.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.i
+.PHONY : XX____mem_and_insert_XX_by_wid.c.i
+
+XX____mem_and_insert_XX_by_wid.s: XX____mem_and_insert_XX_by_wid.c.s
+
+.PHONY : XX____mem_and_insert_XX_by_wid.s
+
+# target to generate assembly for a file
+XX____mem_and_insert_XX_by_wid.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.s
+.PHONY : XX____mem_and_insert_XX_by_wid.c.s
+
+XX____mem_and_insert_x_by_width.o: XX____mem_and_insert_x_by_width.c.o
+
+.PHONY : XX____mem_and_insert_x_by_width.o
+
+# target to build an object file
+XX____mem_and_insert_x_by_width.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o
+.PHONY : XX____mem_and_insert_x_by_width.c.o
+
+XX____mem_and_insert_x_by_width.i: XX____mem_and_insert_x_by_width.c.i
+
+.PHONY : XX____mem_and_insert_x_by_width.i
+
+# target to preprocess a source file
+XX____mem_and_insert_x_by_width.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.i
+.PHONY : XX____mem_and_insert_x_by_width.c.i
+
+XX____mem_and_insert_x_by_width.s: XX____mem_and_insert_x_by_width.c.s
+
+.PHONY : XX____mem_and_insert_x_by_width.s
+
+# target to generate assembly for a file
+XX____mem_and_insert_x_by_width.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.s
+.PHONY : XX____mem_and_insert_x_by_width.c.s
+
+XX____work.o: XX____work.c.o
+
+.PHONY : XX____work.o
+
+# target to build an object file
+XX____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.o
+.PHONY : XX____work.c.o
+
+XX____work.i: XX____work.c.i
+
+.PHONY : XX____work.i
+
+# target to preprocess a source file
+XX____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.i
+.PHONY : XX____work.c.i
+
+XX____work.s: XX____work.c.s
+
+.PHONY : XX____work.s
+
+# target to generate assembly for a file
+XX____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.s
+.PHONY : XX____work.c.s
 
 c_work.o: c_work.c.o
 
@@ -365,6 +473,33 @@ ft_itoa_base.s: ft_itoa_base.c.s
 ft_itoa_base.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/ft_itoa_base.c.s
 .PHONY : ft_itoa_base.c.s
+
+ft_itoa_base_XX.o: ft_itoa_base_XX.c.o
+
+.PHONY : ft_itoa_base_XX.o
+
+# target to build an object file
+ft_itoa_base_XX.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o
+.PHONY : ft_itoa_base_XX.c.o
+
+ft_itoa_base_XX.i: ft_itoa_base_XX.c.i
+
+.PHONY : ft_itoa_base_XX.i
+
+# target to preprocess a source file
+ft_itoa_base_XX.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.i
+.PHONY : ft_itoa_base_XX.c.i
+
+ft_itoa_base_XX.s: ft_itoa_base_XX.c.s
+
+.PHONY : ft_itoa_base_XX.s
+
+# target to generate assembly for a file
+ft_itoa_base_XX.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.s
+.PHONY : ft_itoa_base_XX.c.s
 
 ft_itoa_long.o: ft_itoa_long.c.o
 
@@ -2337,6 +2472,33 @@ x____mem_and_insert_x_by_width.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.s
 .PHONY : x____mem_and_insert_x_by_width.c.s
 
+x____work.o: x____work.c.o
+
+.PHONY : x____work.o
+
+# target to build an object file
+x____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x____work.c.o
+.PHONY : x____work.c.o
+
+x____work.i: x____work.c.i
+
+.PHONY : x____work.i
+
+# target to preprocess a source file
+x____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x____work.c.i
+.PHONY : x____work.c.i
+
+x____work.s: x____work.c.s
+
+.PHONY : x____work.s
+
+# target to generate assembly for a file
+x____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x____work.c.s
+.PHONY : x____work.c.s
+
 x____x_flags.o: x____x_flags.c.o
 
 .PHONY : x____x_flags.o
@@ -2364,33 +2526,6 @@ x____x_flags.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x____x_flags.c.s
 .PHONY : x____x_flags.c.s
 
-x_work.o: x_work.c.o
-
-.PHONY : x_work.o
-
-# target to build an object file
-x_work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x_work.c.o
-.PHONY : x_work.c.o
-
-x_work.i: x_work.c.i
-
-.PHONY : x_work.i
-
-# target to preprocess a source file
-x_work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x_work.c.i
-.PHONY : x_work.c.i
-
-x_work.s: x_work.c.s
-
-.PHONY : x_work.s
-
-# target to generate assembly for a file
-x_work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x_work.c.s
-.PHONY : x_work.c.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -2400,9 +2535,21 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... ft_printf"
 	@echo "... edit_cache"
-	@echo "... X_large_work.o"
-	@echo "... X_large_work.i"
-	@echo "... X_large_work.s"
+	@echo "... XX____flags.o"
+	@echo "... XX____flags.i"
+	@echo "... XX____flags.s"
+	@echo "... XX____mem_and_insert_XX_by_precision.o"
+	@echo "... XX____mem_and_insert_XX_by_precision.i"
+	@echo "... XX____mem_and_insert_XX_by_precision.s"
+	@echo "... XX____mem_and_insert_XX_by_wid.o"
+	@echo "... XX____mem_and_insert_XX_by_wid.i"
+	@echo "... XX____mem_and_insert_XX_by_wid.s"
+	@echo "... XX____mem_and_insert_x_by_width.o"
+	@echo "... XX____mem_and_insert_x_by_width.i"
+	@echo "... XX____mem_and_insert_x_by_width.s"
+	@echo "... XX____work.o"
+	@echo "... XX____work.i"
+	@echo "... XX____work.s"
 	@echo "... c_work.o"
 	@echo "... c_work.i"
 	@echo "... c_work.s"
@@ -2427,6 +2574,9 @@ help:
 	@echo "... ft_itoa_base.o"
 	@echo "... ft_itoa_base.i"
 	@echo "... ft_itoa_base.s"
+	@echo "... ft_itoa_base_XX.o"
+	@echo "... ft_itoa_base_XX.i"
+	@echo "... ft_itoa_base_XX.s"
 	@echo "... ft_itoa_long.o"
 	@echo "... ft_itoa_long.i"
 	@echo "... ft_itoa_long.s"
@@ -2646,12 +2796,12 @@ help:
 	@echo "... x____mem_and_insert_x_by_width.o"
 	@echo "... x____mem_and_insert_x_by_width.i"
 	@echo "... x____mem_and_insert_x_by_width.s"
+	@echo "... x____work.o"
+	@echo "... x____work.i"
+	@echo "... x____work.s"
 	@echo "... x____x_flags.o"
 	@echo "... x____x_flags.i"
 	@echo "... x____x_flags.s"
-	@echo "... x_work.o"
-	@echo "... x_work.i"
-	@echo "... x_work.s"
 .PHONY : help
 
 

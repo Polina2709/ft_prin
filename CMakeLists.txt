@@ -73,4 +73,4 @@ add_executable(ft_printf
     libft/libft.h
     ft_printf.c
     ft_printf.h
-    main.c s_work.c find_format.c c_work.c d_work.c d_work_help.c d_work_precision.c d_work_precision_zero.c ft_itoa_long.c o_work.c ft_itoa_base.c x_work.c X_large_work.c x____x_flags.c x____mem_and_insert_x_by_width.c x____mem_and_insert_x_by_wid.c x____mem_and_insert_x_by_precision.c ft_itoa_unsigned.c ft_itoa_unsigned_long.c ft_atoi_unsigned.c)
+    main.c s_work.c find_format.c c_work.c d_work.c d_work_help.c d_work_precision.c d_work_precision_zero.c ft_itoa_long.c o_work.c ft_itoa_base.c x____work.c XX____work.c x____x_flags.c x____mem_and_insert_x_by_width.c x____mem_and_insert_x_by_wid.c x____mem_and_insert_x_by_precision.c ft_itoa_unsigned.c ft_itoa_unsigned_long.c ft_atoi_unsigned.c XX____flags.c XX____mem_and_insert_x_by_width.c XX____mem_and_insert_XX_by_wid.c XX____mem_and_insert_XX_by_precision.c ft_itoa_base_XX.c)
