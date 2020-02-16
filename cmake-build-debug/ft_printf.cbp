@@ -93,22 +93,73 @@
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/XX____work.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/c_work.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/c____flags.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d_work.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/c____work.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_help.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____d_flags_precision.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____fill_zero_or_space.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision_zero.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____flags.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/find_format.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_by_width.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_left.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_no_left.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_by_wid.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_for_zero.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_precision.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_width.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____var_with_sign.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/d____work.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_flags_in_result.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_precision_in_result.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_result.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_type_flags_in_result.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_width_star_in_result.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____skip_to_find_format.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/format____zero_result.c">
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_atoi_unsigned.c">
@@ -330,10 +381,31 @@
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/main.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/o_work.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/o____flags.c">
 			<Option target="ft_printf"/>
 		</Unit>
-		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/s_work.c">
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_precision.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_wid.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_width.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/o____work.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/s____flags.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s_to_precision.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/s____work.c">
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_precision.c">

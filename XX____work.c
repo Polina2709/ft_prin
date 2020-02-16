@@ -3,7 +3,6 @@
 char *work_with_XX(char *to_c, va_list ap, t_flag *result, char *s2)
 {
     char *var;
-    //   unsigned int tmp;
 
     initialize_result(result, to_c, ap);
     if (result->width_star == 1)
@@ -15,9 +14,6 @@ char *work_with_XX(char *to_c, va_list ap, t_flag *result, char *s2)
     else if (result->size == 2)
         var = ft_itoa_unsigned((unsigned char)va_arg(ap, long));
     else
-    {
-        //       tmp = (unsigned int)va_arg(ap, int);
         var = ft_itoa_unsigned((unsigned int)va_arg(ap, int));
-    }
     return (XX_flags(ap, result, s2, var));
 }

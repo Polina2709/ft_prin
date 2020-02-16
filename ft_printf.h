@@ -28,6 +28,7 @@ int ft_printf(const char *format, ... );
 void *write_usual_text(char *format_line, va_list ap, t_flag *result, char *ret);
 void *ft_symbol_join(char *ret, char symbol);
 void *add_processed(char *format_line, va_list ap, t_flag *result, char *ret);
+
 void  *skip_to_find_type(char *format_line, va_list ap, t_flag *result, char *s2);
 
 void *find_type(char *format_line, va_list ap, t_flag *result, char *s2);
@@ -72,27 +73,30 @@ void *d_flags(va_list ap, t_flag *result, char *s2, char *var);
 void *var_with_sign(va_list ap, t_flag *result, char *var);
 void *fill_zero_or_space(t_flag *result, char *s2);
 void *insert_d_width(t_flag *result, char *var, char *s2, int wid);
-void *insert_d_width_no_left(t_flag *result, char *s2, char *var, int wid); //
+void *insert_d_width_no_left(t_flag *result, char *s2, char *var, int wid);
 void *insert_d(t_flag *result, char *var, char *s2, int wid);
-void *insert_d_width_left(t_flag *result, char *s2, char *var, int wid);//
-void *d_flags_precision(va_list ap, t_flag *result, char *s2, char *var);
-void *insert_d_precision(t_flag *result, char *s2, char *var_p, int wid_p);
+void *insert_d_width_left(t_flag *result, char *s2, char *var, int wid);
 
+void *mem_and_insert_d_for_zero(t_flag *result, char *var, int wid, char *s2);
+void *d_flags_precision(va_list ap, t_flag *result, char *s2, char *var);
 void *mem_and_insert_d_by_wid(t_flag *result, char *s2, char *var_p, int wid_p);
 void *mem_for_d_by_width(t_flag *result, char *s2, char *var_p, int wid_p);
 void *insert_d_by_width(t_flag *result, char *s2, char *var_p, int wid_p);
-void *mem_for_d_by_precision(t_flag *result, char *s2, char *var_p, int wid_p);
-void *mem_and_insert_d_for_zero(t_flag *result, char *var, int wid, char *s2);
+void *insert_d_by_width_left_first(t_flag *result, char *s2, char *var_p, int wid_p);
+void *insert_d_by_width_left_second(t_flag *result, char *s2, char *var_p, int wid_p);
+void *insert_d_by_width_no_left(t_flag *result, char *s2, char *var_p, int wid_p);
+void *mem_and_insert_d_by_precision(t_flag *result, char *s2, char *var_p, int wid_p);
+
 
 
 
 char *work_with_o(char *to_c, va_list ap, t_flag *result, char *s2);
 void *o_flags(va_list ap, t_flag *result, char *s2, char *var);
-unsigned  long int   convert_int_to_octal(va_list ap, t_flag *result, char *var);
-void *mem_and_insert_o_by_width(t_flag *result, char *new_var, char *s2, int wid);
+void *mem_o_by_width(t_flag *result, char *new_var, char *s2, int wid);
+char *insert_o_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wid);
+char *insert_o_by_width_with_prec(t_flag *result, char *new_var, char *s2, int wid);
 void *mem_and_insert_o_by_wid(t_flag *result, char *new_var, char *s2, int wid);
 void *mem_and_insert_o_by_precision(t_flag *result, char *new_var, char *s2, int wid);
-
 
 char *work_with_x(char *to_c, va_list ap, t_flag *result, char *s2);
 void *x_flags(va_list ap, t_flag *result, char *s2, char *var);

@@ -902,100 +902,87 @@ CMakeFiles/ft_printf.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/main.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/main.c -o CMakeFiles/ft_printf.dir/main.c.s
 
-CMakeFiles/ft_printf.dir/s_work.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/s_work.c.o: ../s_work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/ft_printf.dir/s_work.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/s_work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/s_work.c
+CMakeFiles/ft_printf.dir/s____work.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/s____work.c.o: ../s____work.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building C object CMakeFiles/ft_printf.dir/s____work.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/s____work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/s____work.c
 
-CMakeFiles/ft_printf.dir/s_work.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/s_work.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/s_work.c > CMakeFiles/ft_printf.dir/s_work.c.i
+CMakeFiles/ft_printf.dir/s____work.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/s____work.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/s____work.c > CMakeFiles/ft_printf.dir/s____work.c.i
 
-CMakeFiles/ft_printf.dir/s_work.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/s_work.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/s_work.c -o CMakeFiles/ft_printf.dir/s_work.c.s
+CMakeFiles/ft_printf.dir/s____work.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/s____work.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/s____work.c -o CMakeFiles/ft_printf.dir/s____work.c.s
 
-CMakeFiles/ft_printf.dir/find_format.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/find_format.c.o: ../find_format.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/ft_printf.dir/find_format.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/find_format.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/find_format.c
+CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o: ../format____initialize_type_flags_in_result.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building C object CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_type_flags_in_result.c
 
-CMakeFiles/ft_printf.dir/find_format.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/find_format.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/find_format.c > CMakeFiles/ft_printf.dir/find_format.c.i
+CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_type_flags_in_result.c > CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.i
 
-CMakeFiles/ft_printf.dir/find_format.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/find_format.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/find_format.c -o CMakeFiles/ft_printf.dir/find_format.c.s
+CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_type_flags_in_result.c -o CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.s
 
-CMakeFiles/ft_printf.dir/c_work.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/c_work.c.o: ../c_work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/ft_printf.dir/c_work.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/c_work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/c_work.c
+CMakeFiles/ft_printf.dir/c____work.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/c____work.c.o: ../c____work.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building C object CMakeFiles/ft_printf.dir/c____work.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/c____work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/c____work.c
 
-CMakeFiles/ft_printf.dir/c_work.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/c_work.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/c_work.c > CMakeFiles/ft_printf.dir/c_work.c.i
+CMakeFiles/ft_printf.dir/c____work.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/c____work.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/c____work.c > CMakeFiles/ft_printf.dir/c____work.c.i
 
-CMakeFiles/ft_printf.dir/c_work.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/c_work.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/c_work.c -o CMakeFiles/ft_printf.dir/c_work.c.s
+CMakeFiles/ft_printf.dir/c____work.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/c____work.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/c____work.c -o CMakeFiles/ft_printf.dir/c____work.c.s
 
-CMakeFiles/ft_printf.dir/d_work.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/d_work.c.o: ../d_work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/ft_printf.dir/d_work.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d_work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work.c
+CMakeFiles/ft_printf.dir/d____work.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____work.c.o: ../d____work.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building C object CMakeFiles/ft_printf.dir/d____work.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____work.c
 
-CMakeFiles/ft_printf.dir/d_work.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d_work.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work.c > CMakeFiles/ft_printf.dir/d_work.c.i
+CMakeFiles/ft_printf.dir/d____work.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____work.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____work.c > CMakeFiles/ft_printf.dir/d____work.c.i
 
-CMakeFiles/ft_printf.dir/d_work.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d_work.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work.c -o CMakeFiles/ft_printf.dir/d_work.c.s
+CMakeFiles/ft_printf.dir/d____work.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____work.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____work.c -o CMakeFiles/ft_printf.dir/d____work.c.s
 
-CMakeFiles/ft_printf.dir/d_work_help.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/d_work_help.c.o: ../d_work_help.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/ft_printf.dir/d_work_help.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d_work_help.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_help.c
+CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o: ../d____insert_d_by_width.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building C object CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_by_width.c
 
-CMakeFiles/ft_printf.dir/d_work_help.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d_work_help.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_help.c > CMakeFiles/ft_printf.dir/d_work_help.c.i
+CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_by_width.c > CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.i
 
-CMakeFiles/ft_printf.dir/d_work_help.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d_work_help.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_help.c -o CMakeFiles/ft_printf.dir/d_work_help.c.s
+CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_by_width.c -o CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.s
 
-CMakeFiles/ft_printf.dir/d_work_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/d_work_precision.c.o: ../d_work_precision.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/ft_printf.dir/d_work_precision.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d_work_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision.c
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o: ../d____mem_and_insert_d_for_zero.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building C object CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_for_zero.c
 
-CMakeFiles/ft_printf.dir/d_work_precision.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d_work_precision.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision.c > CMakeFiles/ft_printf.dir/d_work_precision.c.i
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_for_zero.c > CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.i
 
-CMakeFiles/ft_printf.dir/d_work_precision.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d_work_precision.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision.c -o CMakeFiles/ft_printf.dir/d_work_precision.c.s
-
-CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o: ../d_work_precision_zero.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision_zero.c
-
-CMakeFiles/ft_printf.dir/d_work_precision_zero.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d_work_precision_zero.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision_zero.c > CMakeFiles/ft_printf.dir/d_work_precision_zero.c.i
-
-CMakeFiles/ft_printf.dir/d_work_precision_zero.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d_work_precision_zero.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d_work_precision_zero.c -o CMakeFiles/ft_printf.dir/d_work_precision_zero.c.s
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_for_zero.c -o CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.s
 
 CMakeFiles/ft_printf.dir/ft_itoa_long.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_itoa_long.c.o: ../ft_itoa_long.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_long.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_long.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/ft_itoa_long.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_long.c
 
 CMakeFiles/ft_printf.dir/ft_itoa_long.c.i: cmake_force
@@ -1006,22 +993,22 @@ CMakeFiles/ft_printf.dir/ft_itoa_long.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/ft_itoa_long.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_long.c -o CMakeFiles/ft_printf.dir/ft_itoa_long.c.s
 
-CMakeFiles/ft_printf.dir/o_work.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/o_work.c.o: ../o_work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/ft_printf.dir/o_work.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/o_work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/o_work.c
+CMakeFiles/ft_printf.dir/o____work.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/o____work.c.o: ../o____work.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building C object CMakeFiles/ft_printf.dir/o____work.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/o____work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/o____work.c
 
-CMakeFiles/ft_printf.dir/o_work.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/o_work.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/o_work.c > CMakeFiles/ft_printf.dir/o_work.c.i
+CMakeFiles/ft_printf.dir/o____work.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/o____work.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/o____work.c > CMakeFiles/ft_printf.dir/o____work.c.i
 
-CMakeFiles/ft_printf.dir/o_work.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/o_work.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/o_work.c -o CMakeFiles/ft_printf.dir/o_work.c.s
+CMakeFiles/ft_printf.dir/o____work.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/o____work.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/o____work.c -o CMakeFiles/ft_printf.dir/o____work.c.s
 
 CMakeFiles/ft_printf.dir/ft_itoa_base.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_itoa_base.c.o: ../ft_itoa_base.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_base.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_base.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/ft_itoa_base.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base.c
 
 CMakeFiles/ft_printf.dir/ft_itoa_base.c.i: cmake_force
@@ -1034,7 +1021,7 @@ CMakeFiles/ft_printf.dir/ft_itoa_base.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/x____work.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/x____work.c.o: ../x____work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/ft_printf.dir/x____work.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/ft_printf.dir/x____work.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/x____work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/x____work.c
 
 CMakeFiles/ft_printf.dir/x____work.c.i: cmake_force
@@ -1047,7 +1034,7 @@ CMakeFiles/ft_printf.dir/x____work.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/XX____work.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/XX____work.c.o: ../XX____work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/ft_printf.dir/XX____work.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building C object CMakeFiles/ft_printf.dir/XX____work.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____work.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/XX____work.c
 
 CMakeFiles/ft_printf.dir/XX____work.c.i: cmake_force
@@ -1060,7 +1047,7 @@ CMakeFiles/ft_printf.dir/XX____work.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/x____x_flags.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/x____x_flags.c.o: ../x____x_flags.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/ft_printf.dir/x____x_flags.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building C object CMakeFiles/ft_printf.dir/x____x_flags.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/x____x_flags.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/x____x_flags.c
 
 CMakeFiles/ft_printf.dir/x____x_flags.c.i: cmake_force
@@ -1073,7 +1060,7 @@ CMakeFiles/ft_printf.dir/x____x_flags.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o: ../x____mem_and_insert_x_by_width.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_width.c
 
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.i: cmake_force
@@ -1086,7 +1073,7 @@ CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o: ../x____mem_and_insert_x_by_wid.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building C object CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_wid.c
 
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.i: cmake_force
@@ -1099,7 +1086,7 @@ CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o: ../x____mem_and_insert_x_by_precision.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building C object CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/x____mem_and_insert_x_by_precision.c
 
 CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.i: cmake_force
@@ -1112,7 +1099,7 @@ CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o: ../ft_itoa_unsigned.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_unsigned.c
 
 CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.i: cmake_force
@@ -1125,7 +1112,7 @@ CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o: ../ft_itoa_unsigned_long.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_unsigned_long.c
 
 CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.i: cmake_force
@@ -1138,7 +1125,7 @@ CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o: ../ft_atoi_unsigned.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_atoi_unsigned.c
 
 CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.i: cmake_force
@@ -1151,7 +1138,7 @@ CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/XX____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/XX____flags.c.o: ../XX____flags.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/ft_printf.dir/XX____flags.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/ft_printf.dir/XX____flags.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____flags.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/XX____flags.c
 
 CMakeFiles/ft_printf.dir/XX____flags.c.i: cmake_force
@@ -1164,7 +1151,7 @@ CMakeFiles/ft_printf.dir/XX____flags.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o: ../XX____mem_and_insert_x_by_width.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_x_by_width.c
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.i: cmake_force
@@ -1177,7 +1164,7 @@ CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o: ../XX____mem_and_insert_XX_by_wid.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_XX_by_wid.c
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.i: cmake_force
@@ -1190,7 +1177,7 @@ CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o: ../XX____mem_and_insert_XX_by_precision.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/XX____mem_and_insert_XX_by_precision.c
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.i: cmake_force
@@ -1203,7 +1190,7 @@ CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.s: cmake_force
 
 CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o: ../ft_itoa_base_XX.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building C object CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base_XX.c
 
 CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.i: cmake_force
@@ -1213,6 +1200,331 @@ CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.i: cmake_force
 CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.s"
 	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/ft_itoa_base_XX.c -o CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.s
+
+CMakeFiles/ft_printf.dir/s____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/s____flags.c.o: ../s____flags.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building C object CMakeFiles/ft_printf.dir/s____flags.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/s____flags.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/s____flags.c
+
+CMakeFiles/ft_printf.dir/s____flags.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/s____flags.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/s____flags.c > CMakeFiles/ft_printf.dir/s____flags.c.i
+
+CMakeFiles/ft_printf.dir/s____flags.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/s____flags.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/s____flags.c -o CMakeFiles/ft_printf.dir/s____flags.c.s
+
+CMakeFiles/ft_printf.dir/s____insert_s.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/s____insert_s.c.o: ../s____insert_s.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building C object CMakeFiles/ft_printf.dir/s____insert_s.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/s____insert_s.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s.c
+
+CMakeFiles/ft_printf.dir/s____insert_s.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/s____insert_s.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s.c > CMakeFiles/ft_printf.dir/s____insert_s.c.i
+
+CMakeFiles/ft_printf.dir/s____insert_s.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/s____insert_s.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s.c -o CMakeFiles/ft_printf.dir/s____insert_s.c.s
+
+CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o: ../s____insert_s_to_precision.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building C object CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s_to_precision.c
+
+CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s_to_precision.c > CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.i
+
+CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/s____insert_s_to_precision.c -o CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.s
+
+CMakeFiles/ft_printf.dir/o____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/o____flags.c.o: ../o____flags.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building C object CMakeFiles/ft_printf.dir/o____flags.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/o____flags.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/o____flags.c
+
+CMakeFiles/ft_printf.dir/o____flags.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/o____flags.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/o____flags.c > CMakeFiles/ft_printf.dir/o____flags.c.i
+
+CMakeFiles/ft_printf.dir/o____flags.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/o____flags.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/o____flags.c -o CMakeFiles/ft_printf.dir/o____flags.c.s
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o: ../o____mem_and_insert_o_by_width.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building C object CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_width.c
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_width.c > CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.i
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_width.c -o CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.s
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o: ../o____mem_and_insert_o_by_precision.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building C object CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_precision.c
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_precision.c > CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.i
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_precision.c -o CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.s
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o: ../o____mem_and_insert_o_by_wid.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building C object CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_wid.c
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_wid.c > CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.i
+
+CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/o____mem_and_insert_o_by_wid.c -o CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.s
+
+CMakeFiles/ft_printf.dir/d____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____flags.c.o: ../d____flags.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building C object CMakeFiles/ft_printf.dir/d____flags.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____flags.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____flags.c
+
+CMakeFiles/ft_printf.dir/d____flags.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____flags.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____flags.c > CMakeFiles/ft_printf.dir/d____flags.c.i
+
+CMakeFiles/ft_printf.dir/d____flags.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____flags.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____flags.c -o CMakeFiles/ft_printf.dir/d____flags.c.s
+
+CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o: ../d____fill_zero_or_space.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building C object CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____fill_zero_or_space.c
+
+CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____fill_zero_or_space.c > CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.i
+
+CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____fill_zero_or_space.c -o CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.s
+
+CMakeFiles/ft_printf.dir/d____insert_d_width.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____insert_d_width.c.o: ../d____insert_d_width.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building C object CMakeFiles/ft_printf.dir/d____insert_d_width.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____insert_d_width.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width.c
+
+CMakeFiles/ft_printf.dir/d____insert_d_width.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____insert_d_width.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width.c > CMakeFiles/ft_printf.dir/d____insert_d_width.c.i
+
+CMakeFiles/ft_printf.dir/d____insert_d_width.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____insert_d_width.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width.c -o CMakeFiles/ft_printf.dir/d____insert_d_width.c.s
+
+CMakeFiles/ft_printf.dir/d____insert_d.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____insert_d.c.o: ../d____insert_d.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building C object CMakeFiles/ft_printf.dir/d____insert_d.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____insert_d.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d.c
+
+CMakeFiles/ft_printf.dir/d____insert_d.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____insert_d.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d.c > CMakeFiles/ft_printf.dir/d____insert_d.c.i
+
+CMakeFiles/ft_printf.dir/d____insert_d.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____insert_d.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d.c -o CMakeFiles/ft_printf.dir/d____insert_d.c.s
+
+CMakeFiles/ft_printf.dir/d____var_with_sign.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____var_with_sign.c.o: ../d____var_with_sign.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building C object CMakeFiles/ft_printf.dir/d____var_with_sign.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____var_with_sign.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____var_with_sign.c
+
+CMakeFiles/ft_printf.dir/d____var_with_sign.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____var_with_sign.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____var_with_sign.c > CMakeFiles/ft_printf.dir/d____var_with_sign.c.i
+
+CMakeFiles/ft_printf.dir/d____var_with_sign.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____var_with_sign.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____var_with_sign.c -o CMakeFiles/ft_printf.dir/d____var_with_sign.c.s
+
+CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o: ../d____insert_d_width_no_left.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building C object CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_no_left.c
+
+CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_no_left.c > CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.i
+
+CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_no_left.c -o CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.s
+
+CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o: ../d____insert_d_width_left.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building C object CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_left.c
+
+CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_left.c > CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.i
+
+CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____insert_d_width_left.c -o CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.s
+
+CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o: ../d____d_flags_precision.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building C object CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____d_flags_precision.c
+
+CMakeFiles/ft_printf.dir/d____d_flags_precision.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____d_flags_precision.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____d_flags_precision.c > CMakeFiles/ft_printf.dir/d____d_flags_precision.c.i
+
+CMakeFiles/ft_printf.dir/d____d_flags_precision.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____d_flags_precision.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____d_flags_precision.c -o CMakeFiles/ft_printf.dir/d____d_flags_precision.c.s
+
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o: ../d____mem_and_insert_d_by_wid.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building C object CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_by_wid.c
+
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_by_wid.c > CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.i
+
+CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_and_insert_d_by_wid.c -o CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.s
+
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o: ../d____mem_for_d_by_width.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building C object CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_width.c
+
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_width.c > CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.i
+
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_width.c -o CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.s
+
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o: ../d____mem_for_d_by_precision.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building C object CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_precision.c
+
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_precision.c > CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.i
+
+CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/d____mem_for_d_by_precision.c -o CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.s
+
+CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o: ../format____skip_to_find_format.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building C object CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____skip_to_find_format.c
+
+CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____skip_to_find_format.c > CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.i
+
+CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____skip_to_find_format.c -o CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.s
+
+CMakeFiles/ft_printf.dir/format____zero_result.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____zero_result.c.o: ../format____zero_result.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building C object CMakeFiles/ft_printf.dir/format____zero_result.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____zero_result.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____zero_result.c
+
+CMakeFiles/ft_printf.dir/format____zero_result.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____zero_result.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____zero_result.c > CMakeFiles/ft_printf.dir/format____zero_result.c.i
+
+CMakeFiles/ft_printf.dir/format____zero_result.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____zero_result.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____zero_result.c -o CMakeFiles/ft_printf.dir/format____zero_result.c.s
+
+CMakeFiles/ft_printf.dir/format____initialize_result.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____initialize_result.c.o: ../format____initialize_result.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building C object CMakeFiles/ft_printf.dir/format____initialize_result.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____initialize_result.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_result.c
+
+CMakeFiles/ft_printf.dir/format____initialize_result.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____initialize_result.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_result.c > CMakeFiles/ft_printf.dir/format____initialize_result.c.i
+
+CMakeFiles/ft_printf.dir/format____initialize_result.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____initialize_result.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_result.c -o CMakeFiles/ft_printf.dir/format____initialize_result.c.s
+
+CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o: ../format____initialize_width_star_in_result.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building C object CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_width_star_in_result.c
+
+CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_width_star_in_result.c > CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.i
+
+CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_width_star_in_result.c -o CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.s
+
+CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o: ../format____initialize_flags_in_result.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building C object CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_flags_in_result.c
+
+CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_flags_in_result.c > CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.i
+
+CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_flags_in_result.c -o CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.s
+
+CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o: ../format____initialize_precision_in_result.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building C object CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_precision_in_result.c
+
+CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_precision_in_result.c > CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.i
+
+CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/format____initialize_precision_in_result.c -o CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.s
+
+CMakeFiles/ft_printf.dir/c____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/c____flags.c.o: ../c____flags.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building C object CMakeFiles/ft_printf.dir/c____flags.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/c____flags.c.o   -c /cygdrive/c/Users/Полина/CLionProjects/print_test/c____flags.c
+
+CMakeFiles/ft_printf.dir/c____flags.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/c____flags.c.i"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /cygdrive/c/Users/Полина/CLionProjects/print_test/c____flags.c > CMakeFiles/ft_printf.dir/c____flags.c.i
+
+CMakeFiles/ft_printf.dir/c____flags.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/c____flags.c.s"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /cygdrive/c/Users/Полина/CLionProjects/print_test/c____flags.c -o CMakeFiles/ft_printf.dir/c____flags.c.s
 
 # Object files for target ft_printf
 ft_printf_OBJECTS = \
@@ -1281,15 +1593,14 @@ ft_printf_OBJECTS = \
 "CMakeFiles/ft_printf.dir/libft/ft_toupper.c.o" \
 "CMakeFiles/ft_printf.dir/ft_printf.c.o" \
 "CMakeFiles/ft_printf.dir/main.c.o" \
-"CMakeFiles/ft_printf.dir/s_work.c.o" \
-"CMakeFiles/ft_printf.dir/find_format.c.o" \
-"CMakeFiles/ft_printf.dir/c_work.c.o" \
-"CMakeFiles/ft_printf.dir/d_work.c.o" \
-"CMakeFiles/ft_printf.dir/d_work_help.c.o" \
-"CMakeFiles/ft_printf.dir/d_work_precision.c.o" \
-"CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o" \
+"CMakeFiles/ft_printf.dir/s____work.c.o" \
+"CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o" \
+"CMakeFiles/ft_printf.dir/c____work.c.o" \
+"CMakeFiles/ft_printf.dir/d____work.c.o" \
+"CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o" \
+"CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o" \
 "CMakeFiles/ft_printf.dir/ft_itoa_long.c.o" \
-"CMakeFiles/ft_printf.dir/o_work.c.o" \
+"CMakeFiles/ft_printf.dir/o____work.c.o" \
 "CMakeFiles/ft_printf.dir/ft_itoa_base.c.o" \
 "CMakeFiles/ft_printf.dir/x____work.c.o" \
 "CMakeFiles/ft_printf.dir/XX____work.c.o" \
@@ -1304,7 +1615,32 @@ ft_printf_OBJECTS = \
 "CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o" \
 "CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o" \
 "CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o" \
-"CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o"
+"CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o" \
+"CMakeFiles/ft_printf.dir/s____flags.c.o" \
+"CMakeFiles/ft_printf.dir/s____insert_s.c.o" \
+"CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o" \
+"CMakeFiles/ft_printf.dir/o____flags.c.o" \
+"CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o" \
+"CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o" \
+"CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o" \
+"CMakeFiles/ft_printf.dir/d____flags.c.o" \
+"CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o" \
+"CMakeFiles/ft_printf.dir/d____insert_d_width.c.o" \
+"CMakeFiles/ft_printf.dir/d____insert_d.c.o" \
+"CMakeFiles/ft_printf.dir/d____var_with_sign.c.o" \
+"CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o" \
+"CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o" \
+"CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o" \
+"CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o" \
+"CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o" \
+"CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o" \
+"CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o" \
+"CMakeFiles/ft_printf.dir/format____zero_result.c.o" \
+"CMakeFiles/ft_printf.dir/format____initialize_result.c.o" \
+"CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o" \
+"CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o" \
+"CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o" \
+"CMakeFiles/ft_printf.dir/c____flags.c.o"
 
 # External object files for target ft_printf
 ft_printf_EXTERNAL_OBJECTS =
@@ -1374,15 +1710,14 @@ ft_printf.exe: CMakeFiles/ft_printf.dir/libft/ft_tolower.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/libft/ft_toupper.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/ft_printf.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/main.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/s_work.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/find_format.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/c_work.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/d_work.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/d_work_help.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/d_work_precision.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/s____work.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/c____work.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____work.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/ft_itoa_long.c.o
-ft_printf.exe: CMakeFiles/ft_printf.dir/o_work.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/o____work.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/ft_itoa_base.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/x____work.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/XX____work.c.o
@@ -1398,9 +1733,34 @@ ft_printf.exe: CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/s____flags.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/s____insert_s.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/o____flags.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____flags.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____insert_d_width.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____insert_d.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____var_with_sign.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____zero_result.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____initialize_result.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o
+ft_printf.exe: CMakeFiles/ft_printf.dir/c____flags.c.o
 ft_printf.exe: CMakeFiles/ft_printf.dir/build.make
 ft_printf.exe: CMakeFiles/ft_printf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Linking C executable ft_printf.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Linking C executable ft_printf.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ft_printf.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -258,167 +258,626 @@ XX____work.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.s
 .PHONY : XX____work.c.s
 
-c_work.o: c_work.c.o
+c____flags.o: c____flags.c.o
 
-.PHONY : c_work.o
-
-# target to build an object file
-c_work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c_work.c.o
-.PHONY : c_work.c.o
-
-c_work.i: c_work.c.i
-
-.PHONY : c_work.i
-
-# target to preprocess a source file
-c_work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c_work.c.i
-.PHONY : c_work.c.i
-
-c_work.s: c_work.c.s
-
-.PHONY : c_work.s
-
-# target to generate assembly for a file
-c_work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c_work.c.s
-.PHONY : c_work.c.s
-
-d_work.o: d_work.c.o
-
-.PHONY : d_work.o
+.PHONY : c____flags.o
 
 # target to build an object file
-d_work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work.c.o
-.PHONY : d_work.c.o
+c____flags.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c____flags.c.o
+.PHONY : c____flags.c.o
 
-d_work.i: d_work.c.i
+c____flags.i: c____flags.c.i
 
-.PHONY : d_work.i
+.PHONY : c____flags.i
 
 # target to preprocess a source file
-d_work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work.c.i
-.PHONY : d_work.c.i
+c____flags.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c____flags.c.i
+.PHONY : c____flags.c.i
 
-d_work.s: d_work.c.s
+c____flags.s: c____flags.c.s
 
-.PHONY : d_work.s
+.PHONY : c____flags.s
 
 # target to generate assembly for a file
-d_work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work.c.s
-.PHONY : d_work.c.s
+c____flags.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c____flags.c.s
+.PHONY : c____flags.c.s
 
-d_work_help.o: d_work_help.c.o
+c____work.o: c____work.c.o
 
-.PHONY : d_work_help.o
+.PHONY : c____work.o
 
 # target to build an object file
-d_work_help.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_help.c.o
-.PHONY : d_work_help.c.o
+c____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c____work.c.o
+.PHONY : c____work.c.o
 
-d_work_help.i: d_work_help.c.i
+c____work.i: c____work.c.i
 
-.PHONY : d_work_help.i
+.PHONY : c____work.i
 
 # target to preprocess a source file
-d_work_help.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_help.c.i
-.PHONY : d_work_help.c.i
+c____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c____work.c.i
+.PHONY : c____work.c.i
 
-d_work_help.s: d_work_help.c.s
+c____work.s: c____work.c.s
 
-.PHONY : d_work_help.s
+.PHONY : c____work.s
 
 # target to generate assembly for a file
-d_work_help.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_help.c.s
-.PHONY : d_work_help.c.s
+c____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/c____work.c.s
+.PHONY : c____work.c.s
 
-d_work_precision.o: d_work_precision.c.o
+d____d_flags_precision.o: d____d_flags_precision.c.o
 
-.PHONY : d_work_precision.o
+.PHONY : d____d_flags_precision.o
 
 # target to build an object file
-d_work_precision.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_precision.c.o
-.PHONY : d_work_precision.c.o
+d____d_flags_precision.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o
+.PHONY : d____d_flags_precision.c.o
 
-d_work_precision.i: d_work_precision.c.i
+d____d_flags_precision.i: d____d_flags_precision.c.i
 
-.PHONY : d_work_precision.i
+.PHONY : d____d_flags_precision.i
 
 # target to preprocess a source file
-d_work_precision.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_precision.c.i
-.PHONY : d_work_precision.c.i
+d____d_flags_precision.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____d_flags_precision.c.i
+.PHONY : d____d_flags_precision.c.i
 
-d_work_precision.s: d_work_precision.c.s
+d____d_flags_precision.s: d____d_flags_precision.c.s
 
-.PHONY : d_work_precision.s
+.PHONY : d____d_flags_precision.s
 
 # target to generate assembly for a file
-d_work_precision.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_precision.c.s
-.PHONY : d_work_precision.c.s
+d____d_flags_precision.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____d_flags_precision.c.s
+.PHONY : d____d_flags_precision.c.s
 
-d_work_precision_zero.o: d_work_precision_zero.c.o
+d____fill_zero_or_space.o: d____fill_zero_or_space.c.o
 
-.PHONY : d_work_precision_zero.o
+.PHONY : d____fill_zero_or_space.o
 
 # target to build an object file
-d_work_precision_zero.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_precision_zero.c.o
-.PHONY : d_work_precision_zero.c.o
+d____fill_zero_or_space.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.o
+.PHONY : d____fill_zero_or_space.c.o
 
-d_work_precision_zero.i: d_work_precision_zero.c.i
+d____fill_zero_or_space.i: d____fill_zero_or_space.c.i
 
-.PHONY : d_work_precision_zero.i
+.PHONY : d____fill_zero_or_space.i
 
 # target to preprocess a source file
-d_work_precision_zero.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_precision_zero.c.i
-.PHONY : d_work_precision_zero.c.i
+d____fill_zero_or_space.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.i
+.PHONY : d____fill_zero_or_space.c.i
 
-d_work_precision_zero.s: d_work_precision_zero.c.s
+d____fill_zero_or_space.s: d____fill_zero_or_space.c.s
 
-.PHONY : d_work_precision_zero.s
+.PHONY : d____fill_zero_or_space.s
 
 # target to generate assembly for a file
-d_work_precision_zero.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d_work_precision_zero.c.s
-.PHONY : d_work_precision_zero.c.s
+d____fill_zero_or_space.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____fill_zero_or_space.c.s
+.PHONY : d____fill_zero_or_space.c.s
 
-find_format.o: find_format.c.o
+d____flags.o: d____flags.c.o
 
-.PHONY : find_format.o
+.PHONY : d____flags.o
 
 # target to build an object file
-find_format.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/find_format.c.o
-.PHONY : find_format.c.o
+d____flags.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____flags.c.o
+.PHONY : d____flags.c.o
 
-find_format.i: find_format.c.i
+d____flags.i: d____flags.c.i
 
-.PHONY : find_format.i
+.PHONY : d____flags.i
 
 # target to preprocess a source file
-find_format.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/find_format.c.i
-.PHONY : find_format.c.i
+d____flags.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____flags.c.i
+.PHONY : d____flags.c.i
 
-find_format.s: find_format.c.s
+d____flags.s: d____flags.c.s
 
-.PHONY : find_format.s
+.PHONY : d____flags.s
 
 # target to generate assembly for a file
-find_format.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/find_format.c.s
-.PHONY : find_format.c.s
+d____flags.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____flags.c.s
+.PHONY : d____flags.c.s
+
+d____insert_d.o: d____insert_d.c.o
+
+.PHONY : d____insert_d.o
+
+# target to build an object file
+d____insert_d.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d.c.o
+.PHONY : d____insert_d.c.o
+
+d____insert_d.i: d____insert_d.c.i
+
+.PHONY : d____insert_d.i
+
+# target to preprocess a source file
+d____insert_d.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d.c.i
+.PHONY : d____insert_d.c.i
+
+d____insert_d.s: d____insert_d.c.s
+
+.PHONY : d____insert_d.s
+
+# target to generate assembly for a file
+d____insert_d.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d.c.s
+.PHONY : d____insert_d.c.s
+
+d____insert_d_by_width.o: d____insert_d_by_width.c.o
+
+.PHONY : d____insert_d_by_width.o
+
+# target to build an object file
+d____insert_d_by_width.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.o
+.PHONY : d____insert_d_by_width.c.o
+
+d____insert_d_by_width.i: d____insert_d_by_width.c.i
+
+.PHONY : d____insert_d_by_width.i
+
+# target to preprocess a source file
+d____insert_d_by_width.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.i
+.PHONY : d____insert_d_by_width.c.i
+
+d____insert_d_by_width.s: d____insert_d_by_width.c.s
+
+.PHONY : d____insert_d_by_width.s
+
+# target to generate assembly for a file
+d____insert_d_by_width.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_by_width.c.s
+.PHONY : d____insert_d_by_width.c.s
+
+d____insert_d_width.o: d____insert_d_width.c.o
+
+.PHONY : d____insert_d_width.o
+
+# target to build an object file
+d____insert_d_width.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width.c.o
+.PHONY : d____insert_d_width.c.o
+
+d____insert_d_width.i: d____insert_d_width.c.i
+
+.PHONY : d____insert_d_width.i
+
+# target to preprocess a source file
+d____insert_d_width.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width.c.i
+.PHONY : d____insert_d_width.c.i
+
+d____insert_d_width.s: d____insert_d_width.c.s
+
+.PHONY : d____insert_d_width.s
+
+# target to generate assembly for a file
+d____insert_d_width.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width.c.s
+.PHONY : d____insert_d_width.c.s
+
+d____insert_d_width_left.o: d____insert_d_width_left.c.o
+
+.PHONY : d____insert_d_width_left.o
+
+# target to build an object file
+d____insert_d_width_left.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.o
+.PHONY : d____insert_d_width_left.c.o
+
+d____insert_d_width_left.i: d____insert_d_width_left.c.i
+
+.PHONY : d____insert_d_width_left.i
+
+# target to preprocess a source file
+d____insert_d_width_left.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.i
+.PHONY : d____insert_d_width_left.c.i
+
+d____insert_d_width_left.s: d____insert_d_width_left.c.s
+
+.PHONY : d____insert_d_width_left.s
+
+# target to generate assembly for a file
+d____insert_d_width_left.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width_left.c.s
+.PHONY : d____insert_d_width_left.c.s
+
+d____insert_d_width_no_left.o: d____insert_d_width_no_left.c.o
+
+.PHONY : d____insert_d_width_no_left.o
+
+# target to build an object file
+d____insert_d_width_no_left.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.o
+.PHONY : d____insert_d_width_no_left.c.o
+
+d____insert_d_width_no_left.i: d____insert_d_width_no_left.c.i
+
+.PHONY : d____insert_d_width_no_left.i
+
+# target to preprocess a source file
+d____insert_d_width_no_left.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.i
+.PHONY : d____insert_d_width_no_left.c.i
+
+d____insert_d_width_no_left.s: d____insert_d_width_no_left.c.s
+
+.PHONY : d____insert_d_width_no_left.s
+
+# target to generate assembly for a file
+d____insert_d_width_no_left.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____insert_d_width_no_left.c.s
+.PHONY : d____insert_d_width_no_left.c.s
+
+d____mem_and_insert_d_by_wid.o: d____mem_and_insert_d_by_wid.c.o
+
+.PHONY : d____mem_and_insert_d_by_wid.o
+
+# target to build an object file
+d____mem_and_insert_d_by_wid.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.o
+.PHONY : d____mem_and_insert_d_by_wid.c.o
+
+d____mem_and_insert_d_by_wid.i: d____mem_and_insert_d_by_wid.c.i
+
+.PHONY : d____mem_and_insert_d_by_wid.i
+
+# target to preprocess a source file
+d____mem_and_insert_d_by_wid.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.i
+.PHONY : d____mem_and_insert_d_by_wid.c.i
+
+d____mem_and_insert_d_by_wid.s: d____mem_and_insert_d_by_wid.c.s
+
+.PHONY : d____mem_and_insert_d_by_wid.s
+
+# target to generate assembly for a file
+d____mem_and_insert_d_by_wid.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_and_insert_d_by_wid.c.s
+.PHONY : d____mem_and_insert_d_by_wid.c.s
+
+d____mem_and_insert_d_for_zero.o: d____mem_and_insert_d_for_zero.c.o
+
+.PHONY : d____mem_and_insert_d_for_zero.o
+
+# target to build an object file
+d____mem_and_insert_d_for_zero.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.o
+.PHONY : d____mem_and_insert_d_for_zero.c.o
+
+d____mem_and_insert_d_for_zero.i: d____mem_and_insert_d_for_zero.c.i
+
+.PHONY : d____mem_and_insert_d_for_zero.i
+
+# target to preprocess a source file
+d____mem_and_insert_d_for_zero.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.i
+.PHONY : d____mem_and_insert_d_for_zero.c.i
+
+d____mem_and_insert_d_for_zero.s: d____mem_and_insert_d_for_zero.c.s
+
+.PHONY : d____mem_and_insert_d_for_zero.s
+
+# target to generate assembly for a file
+d____mem_and_insert_d_for_zero.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_and_insert_d_for_zero.c.s
+.PHONY : d____mem_and_insert_d_for_zero.c.s
+
+d____mem_for_d_by_precision.o: d____mem_for_d_by_precision.c.o
+
+.PHONY : d____mem_for_d_by_precision.o
+
+# target to build an object file
+d____mem_for_d_by_precision.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.o
+.PHONY : d____mem_for_d_by_precision.c.o
+
+d____mem_for_d_by_precision.i: d____mem_for_d_by_precision.c.i
+
+.PHONY : d____mem_for_d_by_precision.i
+
+# target to preprocess a source file
+d____mem_for_d_by_precision.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.i
+.PHONY : d____mem_for_d_by_precision.c.i
+
+d____mem_for_d_by_precision.s: d____mem_for_d_by_precision.c.s
+
+.PHONY : d____mem_for_d_by_precision.s
+
+# target to generate assembly for a file
+d____mem_for_d_by_precision.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_for_d_by_precision.c.s
+.PHONY : d____mem_for_d_by_precision.c.s
+
+d____mem_for_d_by_width.o: d____mem_for_d_by_width.c.o
+
+.PHONY : d____mem_for_d_by_width.o
+
+# target to build an object file
+d____mem_for_d_by_width.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.o
+.PHONY : d____mem_for_d_by_width.c.o
+
+d____mem_for_d_by_width.i: d____mem_for_d_by_width.c.i
+
+.PHONY : d____mem_for_d_by_width.i
+
+# target to preprocess a source file
+d____mem_for_d_by_width.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.i
+.PHONY : d____mem_for_d_by_width.c.i
+
+d____mem_for_d_by_width.s: d____mem_for_d_by_width.c.s
+
+.PHONY : d____mem_for_d_by_width.s
+
+# target to generate assembly for a file
+d____mem_for_d_by_width.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____mem_for_d_by_width.c.s
+.PHONY : d____mem_for_d_by_width.c.s
+
+d____var_with_sign.o: d____var_with_sign.c.o
+
+.PHONY : d____var_with_sign.o
+
+# target to build an object file
+d____var_with_sign.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____var_with_sign.c.o
+.PHONY : d____var_with_sign.c.o
+
+d____var_with_sign.i: d____var_with_sign.c.i
+
+.PHONY : d____var_with_sign.i
+
+# target to preprocess a source file
+d____var_with_sign.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____var_with_sign.c.i
+.PHONY : d____var_with_sign.c.i
+
+d____var_with_sign.s: d____var_with_sign.c.s
+
+.PHONY : d____var_with_sign.s
+
+# target to generate assembly for a file
+d____var_with_sign.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____var_with_sign.c.s
+.PHONY : d____var_with_sign.c.s
+
+d____work.o: d____work.c.o
+
+.PHONY : d____work.o
+
+# target to build an object file
+d____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____work.c.o
+.PHONY : d____work.c.o
+
+d____work.i: d____work.c.i
+
+.PHONY : d____work.i
+
+# target to preprocess a source file
+d____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____work.c.i
+.PHONY : d____work.c.i
+
+d____work.s: d____work.c.s
+
+.PHONY : d____work.s
+
+# target to generate assembly for a file
+d____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/d____work.c.s
+.PHONY : d____work.c.s
+
+format____initialize_flags_in_result.o: format____initialize_flags_in_result.c.o
+
+.PHONY : format____initialize_flags_in_result.o
+
+# target to build an object file
+format____initialize_flags_in_result.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.o
+.PHONY : format____initialize_flags_in_result.c.o
+
+format____initialize_flags_in_result.i: format____initialize_flags_in_result.c.i
+
+.PHONY : format____initialize_flags_in_result.i
+
+# target to preprocess a source file
+format____initialize_flags_in_result.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.i
+.PHONY : format____initialize_flags_in_result.c.i
+
+format____initialize_flags_in_result.s: format____initialize_flags_in_result.c.s
+
+.PHONY : format____initialize_flags_in_result.s
+
+# target to generate assembly for a file
+format____initialize_flags_in_result.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_flags_in_result.c.s
+.PHONY : format____initialize_flags_in_result.c.s
+
+format____initialize_precision_in_result.o: format____initialize_precision_in_result.c.o
+
+.PHONY : format____initialize_precision_in_result.o
+
+# target to build an object file
+format____initialize_precision_in_result.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.o
+.PHONY : format____initialize_precision_in_result.c.o
+
+format____initialize_precision_in_result.i: format____initialize_precision_in_result.c.i
+
+.PHONY : format____initialize_precision_in_result.i
+
+# target to preprocess a source file
+format____initialize_precision_in_result.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.i
+.PHONY : format____initialize_precision_in_result.c.i
+
+format____initialize_precision_in_result.s: format____initialize_precision_in_result.c.s
+
+.PHONY : format____initialize_precision_in_result.s
+
+# target to generate assembly for a file
+format____initialize_precision_in_result.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_precision_in_result.c.s
+.PHONY : format____initialize_precision_in_result.c.s
+
+format____initialize_result.o: format____initialize_result.c.o
+
+.PHONY : format____initialize_result.o
+
+# target to build an object file
+format____initialize_result.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_result.c.o
+.PHONY : format____initialize_result.c.o
+
+format____initialize_result.i: format____initialize_result.c.i
+
+.PHONY : format____initialize_result.i
+
+# target to preprocess a source file
+format____initialize_result.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_result.c.i
+.PHONY : format____initialize_result.c.i
+
+format____initialize_result.s: format____initialize_result.c.s
+
+.PHONY : format____initialize_result.s
+
+# target to generate assembly for a file
+format____initialize_result.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_result.c.s
+.PHONY : format____initialize_result.c.s
+
+format____initialize_type_flags_in_result.o: format____initialize_type_flags_in_result.c.o
+
+.PHONY : format____initialize_type_flags_in_result.o
+
+# target to build an object file
+format____initialize_type_flags_in_result.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.o
+.PHONY : format____initialize_type_flags_in_result.c.o
+
+format____initialize_type_flags_in_result.i: format____initialize_type_flags_in_result.c.i
+
+.PHONY : format____initialize_type_flags_in_result.i
+
+# target to preprocess a source file
+format____initialize_type_flags_in_result.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.i
+.PHONY : format____initialize_type_flags_in_result.c.i
+
+format____initialize_type_flags_in_result.s: format____initialize_type_flags_in_result.c.s
+
+.PHONY : format____initialize_type_flags_in_result.s
+
+# target to generate assembly for a file
+format____initialize_type_flags_in_result.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_type_flags_in_result.c.s
+.PHONY : format____initialize_type_flags_in_result.c.s
+
+format____initialize_width_star_in_result.o: format____initialize_width_star_in_result.c.o
+
+.PHONY : format____initialize_width_star_in_result.o
+
+# target to build an object file
+format____initialize_width_star_in_result.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.o
+.PHONY : format____initialize_width_star_in_result.c.o
+
+format____initialize_width_star_in_result.i: format____initialize_width_star_in_result.c.i
+
+.PHONY : format____initialize_width_star_in_result.i
+
+# target to preprocess a source file
+format____initialize_width_star_in_result.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.i
+.PHONY : format____initialize_width_star_in_result.c.i
+
+format____initialize_width_star_in_result.s: format____initialize_width_star_in_result.c.s
+
+.PHONY : format____initialize_width_star_in_result.s
+
+# target to generate assembly for a file
+format____initialize_width_star_in_result.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____initialize_width_star_in_result.c.s
+.PHONY : format____initialize_width_star_in_result.c.s
+
+format____skip_to_find_format.o: format____skip_to_find_format.c.o
+
+.PHONY : format____skip_to_find_format.o
+
+# target to build an object file
+format____skip_to_find_format.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.o
+.PHONY : format____skip_to_find_format.c.o
+
+format____skip_to_find_format.i: format____skip_to_find_format.c.i
+
+.PHONY : format____skip_to_find_format.i
+
+# target to preprocess a source file
+format____skip_to_find_format.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.i
+.PHONY : format____skip_to_find_format.c.i
+
+format____skip_to_find_format.s: format____skip_to_find_format.c.s
+
+.PHONY : format____skip_to_find_format.s
+
+# target to generate assembly for a file
+format____skip_to_find_format.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____skip_to_find_format.c.s
+.PHONY : format____skip_to_find_format.c.s
+
+format____zero_result.o: format____zero_result.c.o
+
+.PHONY : format____zero_result.o
+
+# target to build an object file
+format____zero_result.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____zero_result.c.o
+.PHONY : format____zero_result.c.o
+
+format____zero_result.i: format____zero_result.c.i
+
+.PHONY : format____zero_result.i
+
+# target to preprocess a source file
+format____zero_result.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____zero_result.c.i
+.PHONY : format____zero_result.c.i
+
+format____zero_result.s: format____zero_result.c.s
+
+.PHONY : format____zero_result.s
+
+# target to generate assembly for a file
+format____zero_result.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/format____zero_result.c.s
+.PHONY : format____zero_result.c.s
 
 ft_atoi_unsigned.o: ft_atoi_unsigned.c.o
 
@@ -2337,59 +2796,248 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/main.c.s
 .PHONY : main.c.s
 
-o_work.o: o_work.c.o
+o____flags.o: o____flags.c.o
 
-.PHONY : o_work.o
-
-# target to build an object file
-o_work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o_work.c.o
-.PHONY : o_work.c.o
-
-o_work.i: o_work.c.i
-
-.PHONY : o_work.i
-
-# target to preprocess a source file
-o_work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o_work.c.i
-.PHONY : o_work.c.i
-
-o_work.s: o_work.c.s
-
-.PHONY : o_work.s
-
-# target to generate assembly for a file
-o_work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o_work.c.s
-.PHONY : o_work.c.s
-
-s_work.o: s_work.c.o
-
-.PHONY : s_work.o
+.PHONY : o____flags.o
 
 # target to build an object file
-s_work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s_work.c.o
-.PHONY : s_work.c.o
+o____flags.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____flags.c.o
+.PHONY : o____flags.c.o
 
-s_work.i: s_work.c.i
+o____flags.i: o____flags.c.i
 
-.PHONY : s_work.i
+.PHONY : o____flags.i
 
 # target to preprocess a source file
-s_work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s_work.c.i
-.PHONY : s_work.c.i
+o____flags.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____flags.c.i
+.PHONY : o____flags.c.i
 
-s_work.s: s_work.c.s
+o____flags.s: o____flags.c.s
 
-.PHONY : s_work.s
+.PHONY : o____flags.s
 
 # target to generate assembly for a file
-s_work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s_work.c.s
-.PHONY : s_work.c.s
+o____flags.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____flags.c.s
+.PHONY : o____flags.c.s
+
+o____mem_and_insert_o_by_precision.o: o____mem_and_insert_o_by_precision.c.o
+
+.PHONY : o____mem_and_insert_o_by_precision.o
+
+# target to build an object file
+o____mem_and_insert_o_by_precision.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.o
+.PHONY : o____mem_and_insert_o_by_precision.c.o
+
+o____mem_and_insert_o_by_precision.i: o____mem_and_insert_o_by_precision.c.i
+
+.PHONY : o____mem_and_insert_o_by_precision.i
+
+# target to preprocess a source file
+o____mem_and_insert_o_by_precision.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.i
+.PHONY : o____mem_and_insert_o_by_precision.c.i
+
+o____mem_and_insert_o_by_precision.s: o____mem_and_insert_o_by_precision.c.s
+
+.PHONY : o____mem_and_insert_o_by_precision.s
+
+# target to generate assembly for a file
+o____mem_and_insert_o_by_precision.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_precision.c.s
+.PHONY : o____mem_and_insert_o_by_precision.c.s
+
+o____mem_and_insert_o_by_wid.o: o____mem_and_insert_o_by_wid.c.o
+
+.PHONY : o____mem_and_insert_o_by_wid.o
+
+# target to build an object file
+o____mem_and_insert_o_by_wid.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.o
+.PHONY : o____mem_and_insert_o_by_wid.c.o
+
+o____mem_and_insert_o_by_wid.i: o____mem_and_insert_o_by_wid.c.i
+
+.PHONY : o____mem_and_insert_o_by_wid.i
+
+# target to preprocess a source file
+o____mem_and_insert_o_by_wid.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.i
+.PHONY : o____mem_and_insert_o_by_wid.c.i
+
+o____mem_and_insert_o_by_wid.s: o____mem_and_insert_o_by_wid.c.s
+
+.PHONY : o____mem_and_insert_o_by_wid.s
+
+# target to generate assembly for a file
+o____mem_and_insert_o_by_wid.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_wid.c.s
+.PHONY : o____mem_and_insert_o_by_wid.c.s
+
+o____mem_and_insert_o_by_width.o: o____mem_and_insert_o_by_width.c.o
+
+.PHONY : o____mem_and_insert_o_by_width.o
+
+# target to build an object file
+o____mem_and_insert_o_by_width.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.o
+.PHONY : o____mem_and_insert_o_by_width.c.o
+
+o____mem_and_insert_o_by_width.i: o____mem_and_insert_o_by_width.c.i
+
+.PHONY : o____mem_and_insert_o_by_width.i
+
+# target to preprocess a source file
+o____mem_and_insert_o_by_width.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.i
+.PHONY : o____mem_and_insert_o_by_width.c.i
+
+o____mem_and_insert_o_by_width.s: o____mem_and_insert_o_by_width.c.s
+
+.PHONY : o____mem_and_insert_o_by_width.s
+
+# target to generate assembly for a file
+o____mem_and_insert_o_by_width.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____mem_and_insert_o_by_width.c.s
+.PHONY : o____mem_and_insert_o_by_width.c.s
+
+o____work.o: o____work.c.o
+
+.PHONY : o____work.o
+
+# target to build an object file
+o____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____work.c.o
+.PHONY : o____work.c.o
+
+o____work.i: o____work.c.i
+
+.PHONY : o____work.i
+
+# target to preprocess a source file
+o____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____work.c.i
+.PHONY : o____work.c.i
+
+o____work.s: o____work.c.s
+
+.PHONY : o____work.s
+
+# target to generate assembly for a file
+o____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/o____work.c.s
+.PHONY : o____work.c.s
+
+s____flags.o: s____flags.c.o
+
+.PHONY : s____flags.o
+
+# target to build an object file
+s____flags.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____flags.c.o
+.PHONY : s____flags.c.o
+
+s____flags.i: s____flags.c.i
+
+.PHONY : s____flags.i
+
+# target to preprocess a source file
+s____flags.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____flags.c.i
+.PHONY : s____flags.c.i
+
+s____flags.s: s____flags.c.s
+
+.PHONY : s____flags.s
+
+# target to generate assembly for a file
+s____flags.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____flags.c.s
+.PHONY : s____flags.c.s
+
+s____insert_s.o: s____insert_s.c.o
+
+.PHONY : s____insert_s.o
+
+# target to build an object file
+s____insert_s.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____insert_s.c.o
+.PHONY : s____insert_s.c.o
+
+s____insert_s.i: s____insert_s.c.i
+
+.PHONY : s____insert_s.i
+
+# target to preprocess a source file
+s____insert_s.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____insert_s.c.i
+.PHONY : s____insert_s.c.i
+
+s____insert_s.s: s____insert_s.c.s
+
+.PHONY : s____insert_s.s
+
+# target to generate assembly for a file
+s____insert_s.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____insert_s.c.s
+.PHONY : s____insert_s.c.s
+
+s____insert_s_to_precision.o: s____insert_s_to_precision.c.o
+
+.PHONY : s____insert_s_to_precision.o
+
+# target to build an object file
+s____insert_s_to_precision.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.o
+.PHONY : s____insert_s_to_precision.c.o
+
+s____insert_s_to_precision.i: s____insert_s_to_precision.c.i
+
+.PHONY : s____insert_s_to_precision.i
+
+# target to preprocess a source file
+s____insert_s_to_precision.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.i
+.PHONY : s____insert_s_to_precision.c.i
+
+s____insert_s_to_precision.s: s____insert_s_to_precision.c.s
+
+.PHONY : s____insert_s_to_precision.s
+
+# target to generate assembly for a file
+s____insert_s_to_precision.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____insert_s_to_precision.c.s
+.PHONY : s____insert_s_to_precision.c.s
+
+s____work.o: s____work.c.o
+
+.PHONY : s____work.o
+
+# target to build an object file
+s____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____work.c.o
+.PHONY : s____work.c.o
+
+s____work.i: s____work.c.i
+
+.PHONY : s____work.i
+
+# target to preprocess a source file
+s____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____work.c.i
+.PHONY : s____work.c.i
+
+s____work.s: s____work.c.s
+
+.PHONY : s____work.s
+
+# target to generate assembly for a file
+s____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/s____work.c.s
+.PHONY : s____work.c.s
 
 x____mem_and_insert_x_by_precision.o: x____mem_and_insert_x_by_precision.c.o
 
@@ -2550,24 +3198,75 @@ help:
 	@echo "... XX____work.o"
 	@echo "... XX____work.i"
 	@echo "... XX____work.s"
-	@echo "... c_work.o"
-	@echo "... c_work.i"
-	@echo "... c_work.s"
-	@echo "... d_work.o"
-	@echo "... d_work.i"
-	@echo "... d_work.s"
-	@echo "... d_work_help.o"
-	@echo "... d_work_help.i"
-	@echo "... d_work_help.s"
-	@echo "... d_work_precision.o"
-	@echo "... d_work_precision.i"
-	@echo "... d_work_precision.s"
-	@echo "... d_work_precision_zero.o"
-	@echo "... d_work_precision_zero.i"
-	@echo "... d_work_precision_zero.s"
-	@echo "... find_format.o"
-	@echo "... find_format.i"
-	@echo "... find_format.s"
+	@echo "... c____flags.o"
+	@echo "... c____flags.i"
+	@echo "... c____flags.s"
+	@echo "... c____work.o"
+	@echo "... c____work.i"
+	@echo "... c____work.s"
+	@echo "... d____d_flags_precision.o"
+	@echo "... d____d_flags_precision.i"
+	@echo "... d____d_flags_precision.s"
+	@echo "... d____fill_zero_or_space.o"
+	@echo "... d____fill_zero_or_space.i"
+	@echo "... d____fill_zero_or_space.s"
+	@echo "... d____flags.o"
+	@echo "... d____flags.i"
+	@echo "... d____flags.s"
+	@echo "... d____insert_d.o"
+	@echo "... d____insert_d.i"
+	@echo "... d____insert_d.s"
+	@echo "... d____insert_d_by_width.o"
+	@echo "... d____insert_d_by_width.i"
+	@echo "... d____insert_d_by_width.s"
+	@echo "... d____insert_d_width.o"
+	@echo "... d____insert_d_width.i"
+	@echo "... d____insert_d_width.s"
+	@echo "... d____insert_d_width_left.o"
+	@echo "... d____insert_d_width_left.i"
+	@echo "... d____insert_d_width_left.s"
+	@echo "... d____insert_d_width_no_left.o"
+	@echo "... d____insert_d_width_no_left.i"
+	@echo "... d____insert_d_width_no_left.s"
+	@echo "... d____mem_and_insert_d_by_wid.o"
+	@echo "... d____mem_and_insert_d_by_wid.i"
+	@echo "... d____mem_and_insert_d_by_wid.s"
+	@echo "... d____mem_and_insert_d_for_zero.o"
+	@echo "... d____mem_and_insert_d_for_zero.i"
+	@echo "... d____mem_and_insert_d_for_zero.s"
+	@echo "... d____mem_for_d_by_precision.o"
+	@echo "... d____mem_for_d_by_precision.i"
+	@echo "... d____mem_for_d_by_precision.s"
+	@echo "... d____mem_for_d_by_width.o"
+	@echo "... d____mem_for_d_by_width.i"
+	@echo "... d____mem_for_d_by_width.s"
+	@echo "... d____var_with_sign.o"
+	@echo "... d____var_with_sign.i"
+	@echo "... d____var_with_sign.s"
+	@echo "... d____work.o"
+	@echo "... d____work.i"
+	@echo "... d____work.s"
+	@echo "... format____initialize_flags_in_result.o"
+	@echo "... format____initialize_flags_in_result.i"
+	@echo "... format____initialize_flags_in_result.s"
+	@echo "... format____initialize_precision_in_result.o"
+	@echo "... format____initialize_precision_in_result.i"
+	@echo "... format____initialize_precision_in_result.s"
+	@echo "... format____initialize_result.o"
+	@echo "... format____initialize_result.i"
+	@echo "... format____initialize_result.s"
+	@echo "... format____initialize_type_flags_in_result.o"
+	@echo "... format____initialize_type_flags_in_result.i"
+	@echo "... format____initialize_type_flags_in_result.s"
+	@echo "... format____initialize_width_star_in_result.o"
+	@echo "... format____initialize_width_star_in_result.i"
+	@echo "... format____initialize_width_star_in_result.s"
+	@echo "... format____skip_to_find_format.o"
+	@echo "... format____skip_to_find_format.i"
+	@echo "... format____skip_to_find_format.s"
+	@echo "... format____zero_result.o"
+	@echo "... format____zero_result.i"
+	@echo "... format____zero_result.s"
 	@echo "... ft_atoi_unsigned.o"
 	@echo "... ft_atoi_unsigned.i"
 	@echo "... ft_atoi_unsigned.s"
@@ -2781,12 +3480,33 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... o_work.o"
-	@echo "... o_work.i"
-	@echo "... o_work.s"
-	@echo "... s_work.o"
-	@echo "... s_work.i"
-	@echo "... s_work.s"
+	@echo "... o____flags.o"
+	@echo "... o____flags.i"
+	@echo "... o____flags.s"
+	@echo "... o____mem_and_insert_o_by_precision.o"
+	@echo "... o____mem_and_insert_o_by_precision.i"
+	@echo "... o____mem_and_insert_o_by_precision.s"
+	@echo "... o____mem_and_insert_o_by_wid.o"
+	@echo "... o____mem_and_insert_o_by_wid.i"
+	@echo "... o____mem_and_insert_o_by_wid.s"
+	@echo "... o____mem_and_insert_o_by_width.o"
+	@echo "... o____mem_and_insert_o_by_width.i"
+	@echo "... o____mem_and_insert_o_by_width.s"
+	@echo "... o____work.o"
+	@echo "... o____work.i"
+	@echo "... o____work.s"
+	@echo "... s____flags.o"
+	@echo "... s____flags.i"
+	@echo "... s____flags.s"
+	@echo "... s____insert_s.o"
+	@echo "... s____insert_s.i"
+	@echo "... s____insert_s.s"
+	@echo "... s____insert_s_to_precision.o"
+	@echo "... s____insert_s_to_precision.i"
+	@echo "... s____insert_s_to_precision.s"
+	@echo "... s____work.o"
+	@echo "... s____work.i"
+	@echo "... s____work.s"
 	@echo "... x____mem_and_insert_x_by_precision.o"
 	@echo "... x____mem_and_insert_x_by_precision.i"
 	@echo "... x____mem_and_insert_x_by_precision.s"
