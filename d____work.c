@@ -14,5 +14,4 @@ char *work_with_d(char *to_c, va_list ap, t_flag *result, char *s2)
     else
         var = ft_itoa((int)va_arg(ap, long));
     return (d_flags(ap,result, s2, var));
-
 }

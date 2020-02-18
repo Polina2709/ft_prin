@@ -1,4 +1,4 @@
-# Install script for directory: /cygdrive/c/Users/Полина/CLionProjects/print_test
+# Install script for directory: /Users/jczech/PROJECTS/IN_PROCESS/new_print
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

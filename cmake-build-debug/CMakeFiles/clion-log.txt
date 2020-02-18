@@ -1,4 +1,4 @@
-C:\cygwin64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/Полина/CLionProjects/print_test
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/jczech/PROJECTS/IN_PROCESS/new_print
 -- Configuring done
 -- Generating done
--- Build files have been written to: /cygdrive/c/Users/РџРѕР»РёРЅР°/CLionProjects/print_test/cmake-build-debug
+-- Build files have been written to: /Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug

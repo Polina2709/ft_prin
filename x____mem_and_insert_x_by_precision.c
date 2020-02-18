@@ -8,7 +8,7 @@ void *mem_and_insert_x_by_precision(t_flag *result, char *new_var, char *s2, int
     free(s2);
     if (result->flag_hash == 1)
         result->precision += 2;
-    s2 = (char *) malloc(sizeof(char *) * (result->precision + 1));
+    s2 = (char *)malloc(sizeof(char *) * (result->precision + 1));
     s2 = ft_memset(s2, '0', result->precision);
     if (result->flag_hash == 1)
     {

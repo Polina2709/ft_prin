@@ -11,7 +11,7 @@ void *mem_XX_by_width(t_flag *result, char *new_var, char *s2, int wid)
             result->width += 2;
         else if (result->flag_hash == 1 && (result->width - result->precision == 1))
             result->width += 1;
-        s2 = (char *) malloc(sizeof(char *) * (result->width + 1));
+        s2 = (char *)malloc(sizeof(char *) * (result->width + 1));
         if (result->flag_left == 1)
         {
             s2 = ft_memset(s2, ' ', result->width);
@@ -36,7 +36,7 @@ char *insert_XX_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wi
 
     i = 0;
     free(s2);
-    s2 = (char *) malloc(sizeof(char *) * (result->width + 1));
+    s2 = (char *)malloc(sizeof(char *) * (result->width + 1));
     if (result->flag_zero == 1 && result->flag_left == 0)
         s2 = ft_memset(s2, '0', result->width);
     else

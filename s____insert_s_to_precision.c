@@ -10,7 +10,7 @@ void *insert_s_to_precision(t_flag *result, char *var, char *s2, int wid)
     if (result->precision == 0 && result->width < 2)
     {
         free(s2);
-        s2 = ft_memset(s2, '\0', 1);
+        s2 = ft_memalloc(1);
     }
     else if (result->precision <= result->width)
     {

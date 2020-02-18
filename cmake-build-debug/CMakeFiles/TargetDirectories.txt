@@ -1,3 +1,3 @@
-/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/ft_printf.dir
-/cygdrive/c/Users/Полина/CLionProjects/print_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir

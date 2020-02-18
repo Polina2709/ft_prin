@@ -22,5 +22,7 @@ void *initialize_type_flags_in_result(t_flag *result, char *format_line)
         else
             result->size = 3;
     }
+    else if (*format_line == 'L')
+        result->size = 5;
     return (format_line);
 }

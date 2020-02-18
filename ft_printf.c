@@ -16,8 +16,8 @@ int ft_printf(const char *format, ... )
     ret = write_usual_text(format_line, ap, result, ret);
     len = ft_strlen(ret);
     write(1, ret, len);
-    free(ret);
     va_end(ap);
+    free(ret);
     free(result);
     return(0);
 }
@@ -52,6 +52,7 @@ void *add_processed(char *format_line, va_list ap, t_flag *result, char *ret)
     s2 = (char *)malloc(sizeof(char *) * 2);
     s2 = skip_to_find_type(format_line, ap, result, s2);
     ret = ft_strjoin(ret, s2);
+    free(s2);
     return (ret);
 }
 

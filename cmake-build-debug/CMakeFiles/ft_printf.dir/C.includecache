@@ -6,17 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_printf.h
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/ft_printf.h
 stdarg.h
 -
 libft/libft.h
-/cygdrive/c/Users/Полина/CLionProjects/print_test/libft/libft.h
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/libft/libft.h
 unistd.h
 -
 stdlib.h
 -
 
-/cygdrive/c/Users/Полина/CLionProjects/print_test/libft/libft.h
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/libft/libft.h
 string.h
 -
 stdlib.h
@@ -24,9 +24,13 @@ stdlib.h
 unistd.h
 -
 
-/cygdrive/c/Users/Полина/CLionProjects/print_test/main.c
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/main.c
 stdio.h
 -
 ft_printf.h
-/cygdrive/c/Users/Полина/CLionProjects/print_test/ft_printf.h
+/Users/jczech/PROJECTS/IN_PROCESS/new_print/ft_printf.h
+limits.h
+-
+float.h
+-
 
