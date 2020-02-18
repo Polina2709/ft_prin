@@ -116,14 +116,14 @@ char *insert_x_by_width_no_left(t_flag *result, char *new_var, char *s2, int wid
 void *mem_and_insert_x_by_wid(t_flag *result, char *new_var, char *s2, int wid);
 void *mem_and_insert_x_by_precision(t_flag *result, char *new_var, char *s2, int wid);
 
-char *work_with_XX(char *to_c, va_list ap, t_flag *result, char *s2);
-void *XX_flags(va_list ap, t_flag *result, char *s2, char *var);
-void *mem_XX_by_width(t_flag *result, char *new_var, char *s2, int wid);
-char *insert_XX_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wid);
-char *insert_XX_by_width_left(t_flag *result, char *new_var, char *s2, int wid);
-char *insert_XX_by_width_no_left(t_flag *result, char *new_var, char *s2, int wid);
-void *mem_and_insert_XX_by_wid(t_flag *result, char *new_var, char *s2, int wid);
-void *mem_and_insert_XX_by_precision(t_flag *result, char *new_var, char *s2, int wid);
+char *work_with_xx(char *to_c, va_list ap, t_flag *result, char *s2);
+void *xx_flags(va_list ap, t_flag *result, char *s2, char *var);
+void *mem_xx_by_width(t_flag *result, char *new_var, char *s2, int wid);
+char *insert_xx_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wid);
+char *insert_xx_by_width_left(t_flag *result, char *new_var, char *s2, int wid);
+char *insert_xx_by_width_no_left(t_flag *result, char *new_var, char *s2, int wid);
+void *mem_and_insert_xx_by_wid(t_flag *result, char *new_var, char *s2, int wid);
+void *mem_and_insert_xx_by_precision(t_flag *result, char *new_var, char *s2, int wid);
 
 char *work_with_f(char *to_c, va_list ap, t_flag *result, char *s2);
 char *format_f(t_flag *result, va_list ap, char *s2);

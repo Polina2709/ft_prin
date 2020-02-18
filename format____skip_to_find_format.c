@@ -23,7 +23,7 @@ void *skip_to_find_type(char *format_line, va_list ap, t_flag *result, char *s2)
 	else if (*type_in_line == 'x')
 		return (work_with_x(format_line, ap, result, s2));
 	else if (*type_in_line == 'X')
-		return (work_with_XX(format_line, ap, result, s2));
+		return (work_with_xx(format_line, ap, result, s2));
     else if(*type_in_line == 'f')
         return (work_with_f(format_line, ap, result, s2));
 	return (0);

@@ -1,6 +1,6 @@
 #include "ft_printf.h"
 
-char *work_with_XX(char *to_c, va_list ap, t_flag *result, char *s2)
+char *work_with_xx(char *to_c, va_list ap, t_flag *result, char *s2)
 {
     char *var;
 
@@ -15,5 +15,5 @@ char *work_with_XX(char *to_c, va_list ap, t_flag *result, char *s2)
         var = ft_itoa_unsigned((unsigned char)va_arg(ap, long));
     else
         var = ft_itoa_unsigned((unsigned int)va_arg(ap, int));
-    return (XX_flags(ap, result, s2, var));
+    return (xx_flags(ap, result, s2, var));
 }

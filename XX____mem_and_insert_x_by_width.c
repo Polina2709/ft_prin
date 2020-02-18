@@ -1,9 +1,9 @@
 #include "ft_printf.h"
 
-void *mem_XX_by_width(t_flag *result, char *new_var, char *s2, int wid)
+void *mem_xx_by_width(t_flag *result, char *new_var, char *s2, int wid)
 {
     if (result->precision == 0)
-        s2 = insert_XX_by_width_no_prec(result, new_var, s2, wid);
+        s2 = insert_xx_by_width_no_prec(result, new_var, s2, wid);
     else
     {
         free(s2);
@@ -23,14 +23,14 @@ void *mem_XX_by_width(t_flag *result, char *new_var, char *s2, int wid)
             s2 = ft_memset(s2, ' ', result->width - result->precision);
         }
         if (result->flag_left == 1)
-            s2 = insert_XX_by_width_left(result, new_var, s2, wid);
+            s2 = insert_xx_by_width_left(result, new_var, s2, wid);
         else
-            s2 = insert_XX_by_width_no_left(result, new_var, s2, wid);
+            s2 = insert_xx_by_width_no_left(result, new_var, s2, wid);
     }
     return (s2);
 }
 
-char *insert_XX_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wid)
+char *insert_xx_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wid)
 {
     int i;
 
@@ -55,7 +55,7 @@ char *insert_XX_by_width_no_prec(t_flag *result, char *new_var, char *s2, int wi
     return (s2);
 }
 
-char *insert_XX_by_width_left(t_flag *result, char *new_var, char *s2, int wid)
+char *insert_xx_by_width_left(t_flag *result, char *new_var, char *s2, int wid)
 {
     int i;
 
@@ -81,7 +81,7 @@ char *insert_XX_by_width_left(t_flag *result, char *new_var, char *s2, int wid)
     return (s2);
 }
 
-char *insert_XX_by_width_no_left(t_flag *result, char *new_var, char *s2, int wid)
+char *insert_xx_by_width_no_left(t_flag *result, char *new_var, char *s2, int wid)
 {
     int i;
 

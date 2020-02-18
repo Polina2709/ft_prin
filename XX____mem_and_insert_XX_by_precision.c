@@ -1,6 +1,6 @@
 #include "ft_printf.h"
 
-void *mem_and_insert_XX_by_precision(t_flag *result, char *new_var, char *s2, int wid)
+void *mem_and_insert_xx_by_precision(t_flag *result, char *new_var, char *s2, int wid)
 {
     int i;
 
