@@ -1019,18 +1019,18 @@ CMakeFiles/ft_printf.dir/x____work.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/x____work.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/x____work.c -o CMakeFiles/ft_printf.dir/x____work.c.s
 
-CMakeFiles/ft_printf.dir/XX____work.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/XX____work.c.o: ../XX____work.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/ft_printf.dir/XX____work.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____work.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____work.c
+CMakeFiles/ft_printf.dir/xx____work.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/xx____work.c.o: ../xx____work.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building C object CMakeFiles/ft_printf.dir/xx____work.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/xx____work.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____work.c
 
-CMakeFiles/ft_printf.dir/XX____work.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/XX____work.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____work.c > CMakeFiles/ft_printf.dir/XX____work.c.i
+CMakeFiles/ft_printf.dir/xx____work.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/xx____work.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____work.c > CMakeFiles/ft_printf.dir/xx____work.c.i
 
-CMakeFiles/ft_printf.dir/XX____work.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/XX____work.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____work.c -o CMakeFiles/ft_printf.dir/XX____work.c.s
+CMakeFiles/ft_printf.dir/xx____work.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/xx____work.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____work.c -o CMakeFiles/ft_printf.dir/xx____work.c.s
 
 CMakeFiles/ft_printf.dir/x____x_flags.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/x____x_flags.c.o: ../x____x_flags.c
@@ -1136,44 +1136,44 @@ CMakeFiles/ft_printf.dir/xx____flags.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/xx____flags.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____flags.c -o CMakeFiles/ft_printf.dir/xx____flags.c.s
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o: ../XX____mem_and_insert_x_by_width.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_x_by_width.c
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o: ../xx____mem_and_insert_x_by_width.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building C object CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_x_by_width.c
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_x_by_width.c > CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.i
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_x_by_width.c > CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.i
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_x_by_width.c -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.s
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_x_by_width.c -o CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.s
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o: ../XX____mem_and_insert_XX_by_wid.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_wid.c
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o: ../xx____mem_and_insert_XX_by_wid.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building C object CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_wid.c
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_wid.c > CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.i
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_wid.c > CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.i
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_wid.c -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.s
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_wid.c -o CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.s
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o: ../XX____mem_and_insert_XX_by_precision.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_precision.c
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o: ../xx____mem_and_insert_XX_by_precision.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building C object CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_precision.c
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_precision.c > CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.i
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_precision.c > CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.i
 
-CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_precision.c -o CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.s
+CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_precision.c -o CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.s
 
 CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o: ../ft_itoa_base_XX.c
@@ -2005,7 +2005,7 @@ ft_printf_OBJECTS = \
 "CMakeFiles/ft_printf.dir/o____work.c.o" \
 "CMakeFiles/ft_printf.dir/ft_itoa_base.c.o" \
 "CMakeFiles/ft_printf.dir/x____work.c.o" \
-"CMakeFiles/ft_printf.dir/XX____work.c.o" \
+"CMakeFiles/ft_printf.dir/xx____work.c.o" \
 "CMakeFiles/ft_printf.dir/x____x_flags.c.o" \
 "CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o" \
 "CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o" \
@@ -2014,9 +2014,9 @@ ft_printf_OBJECTS = \
 "CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o" \
 "CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o" \
 "CMakeFiles/ft_printf.dir/xx____flags.c.o" \
-"CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o" \
-"CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o" \
-"CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o" \
+"CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o" \
+"CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o" \
+"CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o" \
 "CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o" \
 "CMakeFiles/ft_printf.dir/s____flags.c.o" \
 "CMakeFiles/ft_printf.dir/s____insert_s.c.o" \
@@ -2153,7 +2153,7 @@ ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_long.c.o
 ft_printf: CMakeFiles/ft_printf.dir/o____work.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_base.c.o
 ft_printf: CMakeFiles/ft_printf.dir/x____work.c.o
-ft_printf: CMakeFiles/ft_printf.dir/XX____work.c.o
+ft_printf: CMakeFiles/ft_printf.dir/xx____work.c.o
 ft_printf: CMakeFiles/ft_printf.dir/x____x_flags.c.o
 ft_printf: CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o
 ft_printf: CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_wid.c.o
@@ -2162,9 +2162,9 @@ ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o
 ft_printf: CMakeFiles/ft_printf.dir/xx____flags.c.o
-ft_printf: CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o
-ft_printf: CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o
-ft_printf: CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o
+ft_printf: CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o
+ft_printf: CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o
+ft_printf: CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_base_XX.c.o
 ft_printf: CMakeFiles/ft_printf.dir/s____flags.c.o
 ft_printf: CMakeFiles/ft_printf.dir/s____insert_s.c.o

@@ -7,6 +7,7 @@
 #include <stdlib.h>
 
 # define FLAGS "%-+0 #123456789.*lhL"
+# define TYPES "cspdiouxX"
 
 typedef	struct s_flag	t_flag;
 struct		s_flag
@@ -24,7 +25,7 @@ struct		s_flag
 };
 
 int ft_printf(const char *format, ... );
-void *write_usual_text(char *format_line, va_list ap, t_flag *result, char *ret);
+void *write_usual_text(char *format, va_list ap, t_flag *result, char *ret);
 void *ft_symbol_join(char *ret, char symbol);
 void *add_processed(char *format_line, va_list ap, t_flag *result, char *ret);
 

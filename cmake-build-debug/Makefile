@@ -123,114 +123,6 @@ ft_printf/fast:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/build
 .PHONY : ft_printf/fast
 
-XX____mem_and_insert_XX_by_precision.o: XX____mem_and_insert_XX_by_precision.c.o
-
-.PHONY : XX____mem_and_insert_XX_by_precision.o
-
-# target to build an object file
-XX____mem_and_insert_XX_by_precision.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o
-.PHONY : XX____mem_and_insert_XX_by_precision.c.o
-
-XX____mem_and_insert_XX_by_precision.i: XX____mem_and_insert_XX_by_precision.c.i
-
-.PHONY : XX____mem_and_insert_XX_by_precision.i
-
-# target to preprocess a source file
-XX____mem_and_insert_XX_by_precision.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.i
-.PHONY : XX____mem_and_insert_XX_by_precision.c.i
-
-XX____mem_and_insert_XX_by_precision.s: XX____mem_and_insert_XX_by_precision.c.s
-
-.PHONY : XX____mem_and_insert_XX_by_precision.s
-
-# target to generate assembly for a file
-XX____mem_and_insert_XX_by_precision.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.s
-.PHONY : XX____mem_and_insert_XX_by_precision.c.s
-
-XX____mem_and_insert_XX_by_wid.o: XX____mem_and_insert_XX_by_wid.c.o
-
-.PHONY : XX____mem_and_insert_XX_by_wid.o
-
-# target to build an object file
-XX____mem_and_insert_XX_by_wid.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o
-.PHONY : XX____mem_and_insert_XX_by_wid.c.o
-
-XX____mem_and_insert_XX_by_wid.i: XX____mem_and_insert_XX_by_wid.c.i
-
-.PHONY : XX____mem_and_insert_XX_by_wid.i
-
-# target to preprocess a source file
-XX____mem_and_insert_XX_by_wid.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.i
-.PHONY : XX____mem_and_insert_XX_by_wid.c.i
-
-XX____mem_and_insert_XX_by_wid.s: XX____mem_and_insert_XX_by_wid.c.s
-
-.PHONY : XX____mem_and_insert_XX_by_wid.s
-
-# target to generate assembly for a file
-XX____mem_and_insert_XX_by_wid.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.s
-.PHONY : XX____mem_and_insert_XX_by_wid.c.s
-
-XX____mem_and_insert_x_by_width.o: XX____mem_and_insert_x_by_width.c.o
-
-.PHONY : XX____mem_and_insert_x_by_width.o
-
-# target to build an object file
-XX____mem_and_insert_x_by_width.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o
-.PHONY : XX____mem_and_insert_x_by_width.c.o
-
-XX____mem_and_insert_x_by_width.i: XX____mem_and_insert_x_by_width.c.i
-
-.PHONY : XX____mem_and_insert_x_by_width.i
-
-# target to preprocess a source file
-XX____mem_and_insert_x_by_width.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.i
-.PHONY : XX____mem_and_insert_x_by_width.c.i
-
-XX____mem_and_insert_x_by_width.s: XX____mem_and_insert_x_by_width.c.s
-
-.PHONY : XX____mem_and_insert_x_by_width.s
-
-# target to generate assembly for a file
-XX____mem_and_insert_x_by_width.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.s
-.PHONY : XX____mem_and_insert_x_by_width.c.s
-
-XX____work.o: XX____work.c.o
-
-.PHONY : XX____work.o
-
-# target to build an object file
-XX____work.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.o
-.PHONY : XX____work.c.o
-
-XX____work.i: XX____work.c.i
-
-.PHONY : XX____work.i
-
-# target to preprocess a source file
-XX____work.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.i
-.PHONY : XX____work.c.i
-
-XX____work.s: XX____work.c.s
-
-.PHONY : XX____work.s
-
-# target to generate assembly for a file
-XX____work.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____work.c.s
-.PHONY : XX____work.c.s
-
 c____flags.o: c____flags.c.o
 
 .PHONY : c____flags.o
@@ -4011,6 +3903,114 @@ xx____flags.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____flags.c.s
 .PHONY : xx____flags.c.s
 
+xx____mem_and_insert_XX_by_precision.o: xx____mem_and_insert_XX_by_precision.c.o
+
+.PHONY : xx____mem_and_insert_XX_by_precision.o
+
+# target to build an object file
+xx____mem_and_insert_XX_by_precision.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o
+.PHONY : xx____mem_and_insert_XX_by_precision.c.o
+
+xx____mem_and_insert_XX_by_precision.i: xx____mem_and_insert_XX_by_precision.c.i
+
+.PHONY : xx____mem_and_insert_XX_by_precision.i
+
+# target to preprocess a source file
+xx____mem_and_insert_XX_by_precision.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.i
+.PHONY : xx____mem_and_insert_XX_by_precision.c.i
+
+xx____mem_and_insert_XX_by_precision.s: xx____mem_and_insert_XX_by_precision.c.s
+
+.PHONY : xx____mem_and_insert_XX_by_precision.s
+
+# target to generate assembly for a file
+xx____mem_and_insert_XX_by_precision.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.s
+.PHONY : xx____mem_and_insert_XX_by_precision.c.s
+
+xx____mem_and_insert_XX_by_wid.o: xx____mem_and_insert_XX_by_wid.c.o
+
+.PHONY : xx____mem_and_insert_XX_by_wid.o
+
+# target to build an object file
+xx____mem_and_insert_XX_by_wid.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o
+.PHONY : xx____mem_and_insert_XX_by_wid.c.o
+
+xx____mem_and_insert_XX_by_wid.i: xx____mem_and_insert_XX_by_wid.c.i
+
+.PHONY : xx____mem_and_insert_XX_by_wid.i
+
+# target to preprocess a source file
+xx____mem_and_insert_XX_by_wid.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.i
+.PHONY : xx____mem_and_insert_XX_by_wid.c.i
+
+xx____mem_and_insert_XX_by_wid.s: xx____mem_and_insert_XX_by_wid.c.s
+
+.PHONY : xx____mem_and_insert_XX_by_wid.s
+
+# target to generate assembly for a file
+xx____mem_and_insert_XX_by_wid.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.s
+.PHONY : xx____mem_and_insert_XX_by_wid.c.s
+
+xx____mem_and_insert_x_by_width.o: xx____mem_and_insert_x_by_width.c.o
+
+.PHONY : xx____mem_and_insert_x_by_width.o
+
+# target to build an object file
+xx____mem_and_insert_x_by_width.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o
+.PHONY : xx____mem_and_insert_x_by_width.c.o
+
+xx____mem_and_insert_x_by_width.i: xx____mem_and_insert_x_by_width.c.i
+
+.PHONY : xx____mem_and_insert_x_by_width.i
+
+# target to preprocess a source file
+xx____mem_and_insert_x_by_width.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.i
+.PHONY : xx____mem_and_insert_x_by_width.c.i
+
+xx____mem_and_insert_x_by_width.s: xx____mem_and_insert_x_by_width.c.s
+
+.PHONY : xx____mem_and_insert_x_by_width.s
+
+# target to generate assembly for a file
+xx____mem_and_insert_x_by_width.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.s
+.PHONY : xx____mem_and_insert_x_by_width.c.s
+
+xx____work.o: xx____work.c.o
+
+.PHONY : xx____work.o
+
+# target to build an object file
+xx____work.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____work.c.o
+.PHONY : xx____work.c.o
+
+xx____work.i: xx____work.c.i
+
+.PHONY : xx____work.i
+
+# target to preprocess a source file
+xx____work.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____work.c.i
+.PHONY : xx____work.c.i
+
+xx____work.s: xx____work.c.s
+
+.PHONY : xx____work.s
+
+# target to generate assembly for a file
+xx____work.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____work.c.s
+.PHONY : xx____work.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -4020,18 +4020,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ft_printf"
-	@echo "... XX____mem_and_insert_XX_by_precision.o"
-	@echo "... XX____mem_and_insert_XX_by_precision.i"
-	@echo "... XX____mem_and_insert_XX_by_precision.s"
-	@echo "... XX____mem_and_insert_XX_by_wid.o"
-	@echo "... XX____mem_and_insert_XX_by_wid.i"
-	@echo "... XX____mem_and_insert_XX_by_wid.s"
-	@echo "... XX____mem_and_insert_x_by_width.o"
-	@echo "... XX____mem_and_insert_x_by_width.i"
-	@echo "... XX____mem_and_insert_x_by_width.s"
-	@echo "... XX____work.o"
-	@echo "... XX____work.i"
-	@echo "... XX____work.s"
 	@echo "... c____flags.o"
 	@echo "... c____flags.i"
 	@echo "... c____flags.s"
@@ -4452,6 +4440,18 @@ help:
 	@echo "... xx____flags.o"
 	@echo "... xx____flags.i"
 	@echo "... xx____flags.s"
+	@echo "... xx____mem_and_insert_XX_by_precision.o"
+	@echo "... xx____mem_and_insert_XX_by_precision.i"
+	@echo "... xx____mem_and_insert_XX_by_precision.s"
+	@echo "... xx____mem_and_insert_XX_by_wid.o"
+	@echo "... xx____mem_and_insert_XX_by_wid.i"
+	@echo "... xx____mem_and_insert_XX_by_wid.s"
+	@echo "... xx____mem_and_insert_x_by_width.o"
+	@echo "... xx____mem_and_insert_x_by_width.i"
+	@echo "... xx____mem_and_insert_x_by_width.s"
+	@echo "... xx____work.o"
+	@echo "... xx____work.i"
+	@echo "... xx____work.s"
 .PHONY : help
 
 

@@ -4,10 +4,6 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_precision.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o"
-  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_wid.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o"
-  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_x_by_width.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o"
-  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____work.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/XX____work.c.o"
   "/Users/jczech/PROJECTS/IN_PROCESS/new_print/c____flags.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/c____flags.c.o"
   "/Users/jczech/PROJECTS/IN_PROCESS/new_print/c____work.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/c____work.c.o"
   "/Users/jczech/PROJECTS/IN_PROCESS/new_print/d____d_flags_precision.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/d____d_flags_precision.c.o"
@@ -148,6 +144,10 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/jczech/PROJECTS/IN_PROCESS/new_print/x____work.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/x____work.c.o"
   "/Users/jczech/PROJECTS/IN_PROCESS/new_print/x____x_flags.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/x____x_flags.c.o"
   "/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____flags.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/xx____flags.c.o"
+  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_precision.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_precision.c.o"
+  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_wid.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/xx____mem_and_insert_XX_by_wid.c.o"
+  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_x_by_width.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/xx____mem_and_insert_x_by_width.c.o"
+  "/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____work.c" "/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles/ft_printf.dir/xx____work.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

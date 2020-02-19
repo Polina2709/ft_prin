@@ -84,18 +84,6 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_precision.c">
-			<Option target="ft_printf"/>
-		</Unit>
-		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_XX_by_wid.c">
-			<Option target="ft_printf"/>
-		</Unit>
-		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____mem_and_insert_x_by_width.c">
-			<Option target="ft_printf"/>
-		</Unit>
-		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____work.c">
-			<Option target="ft_printf"/>
-		</Unit>
 		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/c____flags.c">
 			<Option target="ft_printf"/>
 		</Unit>
@@ -520,6 +508,18 @@
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____flags.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_precision.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_XX_by_wid.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____mem_and_insert_x_by_width.c">
+			<Option target="ft_printf"/>
+		</Unit>
+		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____work.c">
 			<Option target="ft_printf"/>
 		</Unit>
 		<Unit filename="/Users/jczech/PROJECTS/IN_PROCESS/new_print/CMakeLists.txt">

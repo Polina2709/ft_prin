@@ -2,7 +2,7 @@
 
 int ft_printf(const char *format, ... )
 {
-    char *format_line;
+//    char *format_line;
     t_flag *result;
     int len;
     char *ret;
@@ -12,8 +12,8 @@ int ft_printf(const char *format, ... )
     ret = "";
     va_list ap;
     va_start(ap, format);
-    format_line = (char *)format;
-    ret = write_usual_text(format_line, ap, result, ret);
+ //   format_line = (char *)format;
+    ret = write_usual_text(format, ap, result, ret);
     len = ft_strlen(ret);
     write(1, ret, len);
     va_end(ap);
@@ -22,24 +22,33 @@ int ft_printf(const char *format, ... )
     return(0);
 }
 
-void *write_usual_text(char *format_line, va_list ap, t_flag *result, char *ret)
+void *write_usual_text(char *format, va_list ap, t_flag *result, char *ret)
 {
-    while (*format_line != '\0')
+	char *format_line;
+//	format_line = (char *)format;
+    while (*format != '\0')
     {
-
-        if (*format_line != '%')
-            ret = ft_symbol_join(ret, *format_line++);
-        else if (*format_line == '%' && *(format_line + 1) == '%')
+        if (*format != '%')
+            ret = ft_symbol_join(ret, *format++);
+        else if (*format == '%' && *(format + 1) == '%')
         {
-            ret = ft_symbol_join(ret, *format_line);
-            format_line = format_line + 2;
+            ret = ft_symbol_join(ret, *format);
+            format = format + 2;
         }
         else
         {
-            ret = add_processed(format_line + 1, ap, result, ret);
-            while (ft_strchr(FLAGS, *format_line))
-                format_line++;
-            format_line++;
+	        format_line = (char *)format;
+        	while (ft_strchr(FLAGS, *format_line))
+		        format_line++;
+        	if (ft_strchr(TYPES, *format_line))
+        	{
+		        ret = add_processed(format + 1, ap, result, ret);
+		        while (ft_strchr(FLAGS, *format))
+			        format++;
+		        format++;
+	        }
+	        else
+	        	format++;
         }
     }
     return (ret);
