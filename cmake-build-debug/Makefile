@@ -123,33 +123,6 @@ ft_printf/fast:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/build
 .PHONY : ft_printf/fast
 
-XX____flags.o: XX____flags.c.o
-
-.PHONY : XX____flags.o
-
-# target to build an object file
-XX____flags.c.o:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____flags.c.o
-.PHONY : XX____flags.c.o
-
-XX____flags.i: XX____flags.c.i
-
-.PHONY : XX____flags.i
-
-# target to preprocess a source file
-XX____flags.c.i:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____flags.c.i
-.PHONY : XX____flags.c.i
-
-XX____flags.s: XX____flags.c.s
-
-.PHONY : XX____flags.s
-
-# target to generate assembly for a file
-XX____flags.c.s:
-	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/XX____flags.c.s
-.PHONY : XX____flags.c.s
-
 XX____mem_and_insert_XX_by_precision.o: XX____mem_and_insert_XX_by_precision.c.o
 
 .PHONY : XX____mem_and_insert_XX_by_precision.o
@@ -4011,6 +3984,33 @@ x____x_flags.c.s:
 	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/x____x_flags.c.s
 .PHONY : x____x_flags.c.s
 
+xx____flags.o: xx____flags.c.o
+
+.PHONY : xx____flags.o
+
+# target to build an object file
+xx____flags.c.o:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____flags.c.o
+.PHONY : xx____flags.c.o
+
+xx____flags.i: xx____flags.c.i
+
+.PHONY : xx____flags.i
+
+# target to preprocess a source file
+xx____flags.c.i:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____flags.c.i
+.PHONY : xx____flags.c.i
+
+xx____flags.s: xx____flags.c.s
+
+.PHONY : xx____flags.s
+
+# target to generate assembly for a file
+xx____flags.c.s:
+	$(MAKE) -f CMakeFiles/ft_printf.dir/build.make CMakeFiles/ft_printf.dir/xx____flags.c.s
+.PHONY : xx____flags.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -4020,9 +4020,6 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... ft_printf"
-	@echo "... XX____flags.o"
-	@echo "... XX____flags.i"
-	@echo "... XX____flags.s"
 	@echo "... XX____mem_and_insert_XX_by_precision.o"
 	@echo "... XX____mem_and_insert_XX_by_precision.i"
 	@echo "... XX____mem_and_insert_XX_by_precision.s"
@@ -4452,6 +4449,9 @@ help:
 	@echo "... x____x_flags.o"
 	@echo "... x____x_flags.i"
 	@echo "... x____x_flags.s"
+	@echo "... xx____flags.o"
+	@echo "... xx____flags.i"
+	@echo "... xx____flags.s"
 .PHONY : help
 
 

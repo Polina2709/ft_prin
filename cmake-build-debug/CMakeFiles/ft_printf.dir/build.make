@@ -1123,18 +1123,18 @@ CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/ft_atoi_unsigned.c -o CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.s
 
-CMakeFiles/ft_printf.dir/XX____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
-CMakeFiles/ft_printf.dir/XX____flags.c.o: ../XX____flags.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/ft_printf.dir/XX____flags.c.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/XX____flags.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____flags.c
+CMakeFiles/ft_printf.dir/xx____flags.c.o: CMakeFiles/ft_printf.dir/flags.make
+CMakeFiles/ft_printf.dir/xx____flags.c.o: ../xx____flags.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jczech/PROJECTS/IN_PROCESS/new_print/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building C object CMakeFiles/ft_printf.dir/xx____flags.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/ft_printf.dir/xx____flags.c.o   -c /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____flags.c
 
-CMakeFiles/ft_printf.dir/XX____flags.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/XX____flags.c.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____flags.c > CMakeFiles/ft_printf.dir/XX____flags.c.i
+CMakeFiles/ft_printf.dir/xx____flags.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/ft_printf.dir/xx____flags.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____flags.c > CMakeFiles/ft_printf.dir/xx____flags.c.i
 
-CMakeFiles/ft_printf.dir/XX____flags.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/XX____flags.c.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/XX____flags.c -o CMakeFiles/ft_printf.dir/XX____flags.c.s
+CMakeFiles/ft_printf.dir/xx____flags.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/ft_printf.dir/xx____flags.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/jczech/PROJECTS/IN_PROCESS/new_print/xx____flags.c -o CMakeFiles/ft_printf.dir/xx____flags.c.s
 
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o: CMakeFiles/ft_printf.dir/flags.make
 CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o: ../XX____mem_and_insert_x_by_width.c
@@ -2013,7 +2013,7 @@ ft_printf_OBJECTS = \
 "CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o" \
 "CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o" \
 "CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o" \
-"CMakeFiles/ft_printf.dir/XX____flags.c.o" \
+"CMakeFiles/ft_printf.dir/xx____flags.c.o" \
 "CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o" \
 "CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o" \
 "CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o" \
@@ -2161,7 +2161,7 @@ ft_printf: CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_precision.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_unsigned.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_itoa_unsigned_long.c.o
 ft_printf: CMakeFiles/ft_printf.dir/ft_atoi_unsigned.c.o
-ft_printf: CMakeFiles/ft_printf.dir/XX____flags.c.o
+ft_printf: CMakeFiles/ft_printf.dir/xx____flags.c.o
 ft_printf: CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o
 ft_printf: CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o
 ft_printf: CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o

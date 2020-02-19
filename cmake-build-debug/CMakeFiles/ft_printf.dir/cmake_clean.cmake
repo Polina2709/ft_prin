@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ft_printf.dir/XX____flags.c.o"
   "CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_precision.c.o"
   "CMakeFiles/ft_printf.dir/XX____mem_and_insert_XX_by_wid.c.o"
   "CMakeFiles/ft_printf.dir/XX____mem_and_insert_x_by_width.c.o"
@@ -143,6 +142,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/ft_printf.dir/x____mem_and_insert_x_by_width.c.o"
   "CMakeFiles/ft_printf.dir/x____work.c.o"
   "CMakeFiles/ft_printf.dir/x____x_flags.c.o"
+  "CMakeFiles/ft_printf.dir/xx____flags.c.o"
   "ft_printf"
   "ft_printf.pdb"
 )
